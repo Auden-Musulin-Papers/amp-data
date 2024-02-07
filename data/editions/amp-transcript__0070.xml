@@ -149,18 +149,18 @@ for any purpose, even commercially.</p>
             <div type="envelope">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0465/" type="envelope" ed="1r"/>
                <ab xml:lang="de">
-                  <rs type="person" ref="#amp_person_1">W.H.Auden</rs><lb/>
+                  <lb/><rs type="person" ref="#amp_person_1">W.H.Auden</rs>
                   <address>
-                     <rs type="place" ref="#amp_place_id_2">Kirchst<del>t</del>etten (West Bahn)<lb/> 
-                     Hinterholz # 6<lb/> 
+                     <lb/><rs type="place" ref="#amp_place_id_2">Kirchst<del>t</del>etten (West Bahn)
+                        <lb/>Hinterholz # 6
                      N.O.</rs>
                   </address>
                </ab>
                <ab xml:lang="de">
-                  <space quantity="21" unit="char"/>Die <rs type="person" ref="#amp_person_2">Baronin Stella Musulin</rs><lb/>
+                  <lb/><space quantity="21" unit="char"/>Die <rs type="person" ref="#amp_person_2">Baronin Stella Musulin</rs>
                   <address>
-                     <space quantity="24" unit="char"/><rs type="place" ref="#amp_place_id_303">bei Windisch-<del>frcty</del> fracty<lb/><!-- research person (Eva Windisch-Graez) -->
-                     <space quantity="30" unit="char"/>WIEN VI<lb/> 
+                     <lb/><space quantity="24" unit="char"/><rs type="place" ref="#amp_place_id_303">bei Windisch-<del>frcty</del> fracty<!-- research person (Eva Windisch-Graez) -->
+                        <lb/><space quantity="30" unit="char"/>WIEN VI
                      <space quantity="31" unit="char"/>Fillgradegasse I2</rs>
                   </address>
                </ab>
@@ -173,8 +173,8 @@ for any purpose, even commercially.</p>
                      <dateline xml:lang="de">
                         <placeName>
                            <address>
-                              <rs type="place" ref="#amp_place_id_2">Kirchstetten(West Bah<del>h</del>n)<lb/> 
-                              Hinterholz # 6<lb/> 
+                              <lb/><rs type="place" ref="#amp_place_id_2">Kirchstetten(West Bah<del>h</del>n) 
+                                 <lb/>Hinterholz # 6
                               N.O.</rs>
                            </address>
                         </placeName>
@@ -185,11 +185,11 @@ for any purpose, even commercially.</p>
                      </salute>
                   </opener>
                   <p>
-                     <space quantity="6" unit="char"/>Many thanks for <rs type="event" ref="#amp_event_id_61">your letter of Oct <del>%</del>5th which I have only just<lb/>
+                     <lb/><space quantity="6" unit="char"/>Many thanks for <rs type="event" ref="#amp_event_id_61">your letter of Oct <del>%</del>5th which I have only just
                      <space quantity="3" unit="char"/>received</rs>:it went to <rs type="place" ref="#amp_place_id_314" ana="#ana_001">the wrong Kirchstetten</rs>.
                   </p>
                   <p>
-                     <space quantity="8" unit="char"/><rs type="person" ref="#amp_person_1 #amp_person_4">We</rs> shall be delighted to see you any day that is convenient for<lb/> 
+                     <lb/><space quantity="8" unit="char"/><rs type="person" ref="#amp_person_1 #amp_person_4">We</rs> shall be delighted to see you any day that is convenient for
                      <space quantity="3" unit="char"/>you,if you could drop us a postcard. Only next Monday is impossible.
                   </p>
                   <closer>
