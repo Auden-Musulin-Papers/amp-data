@@ -136,21 +136,21 @@ for any purpose, even commercially.</p>
             <div type="envelope">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0125/" type="envelope" ed="1r"/>
                <ab xml:lang="de">
-                  <rs type="person" ref="#amp_person_2">Die Baronin<lb/>
-                  Stella Musuli<unclear>m</unclear></rs><lb/>
+                  <rs type="person" ref="#amp_person_2">Die Baronin
+                     <lb/>Stella Musuli<unclear>m</unclear></rs>
                   <address>
-                     <rs type="place" ref="#amp_place_id_11">Wien III<lb/>
-                     Neulinggasse 26. 14</rs>
+                     <lb/><rs type="place" ref="#amp_place_id_11">Wien III
+                     <lb/>Neulinggasse 26. 14</rs>
                   </address>
                </ab>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0126/" type="envelope" ed="1v"/>
                <ab>
-                  <rs type="person" ref="#amp_person_1">W<unclear>.H</unclear> Auden</rs><lb/>
+                  <rs type="person" ref="#amp_person_1">W<unclear>.H</unclear> Auden</rs>
                   <seg hand="#printed">
                      <address>
-                        <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (<foreign xml:lang="de">WESTBAHN</foreign>)<lb/>
-                        HINTERHOLZ 6<lb/>
-                        <foreign xml:lang="de">N.-Ö.</foreign>, AUSTRIA</rs>
+                        <lb/><rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (<foreign xml:lang="de">WESTBAHN</foreign>)
+                        <lb/>HINTERHOLZ 6
+                        <lb/><foreign xml:lang="de">N.-Ö.</foreign>, AUSTRIA</rs>
                      </address>
                   </seg>   
                </ab>
@@ -164,9 +164,9 @@ for any purpose, even commercially.</p>
                      <placeName> 
                         <seg hand="#printed">
                            <address>
-                              <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (<foreign xml:lang="de">WESTBAHN</foreign>)<lb/>
-                              HINTERHOLZ 6<lb/>
-                              <foreign xml:lang="de">N.-Ö.</foreign>, AUSTRIA</rs>
+                              <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (<foreign xml:lang="de">WESTBAHN</foreign>)
+                              <lb/>HINTERHOLZ 6
+                              <lb/><foreign xml:lang="de">N.-Ö.</foreign>, AUSTRIA</rs>
                            </address>
                         </seg>   
                      </placeName>
@@ -174,12 +174,12 @@ for any purpose, even commercially.</p>
                   <salute>Dear <rs type="person" ref="#amp_person_2"><del>Sell</del> Stella</rs>:</salute>
                </opener>
                <p>
-                  Many thanks for <rs type="event" ref="#amp_event_id_68">your card</rs>.<lb/>
-                  Cant get i<unclear>m</unclear> t<unclear>o</unclear> <rs type="place" ref="#amp_place_id_1">Vienna</rs> before<lb/>
-                  <unclear>Fr</unclear>iday<unclear>,</unclear> but do come and see <rs type="person" ref="#amp_person_1 #amp_person_4">us</rs><lb/>
-                  eith<unclear>e</unclear>r on your way to or from<lb/>
-                  <rs type="place" ref="#amp_place_id_7">Fridau</rs>,or let <rs type="person" ref="#amp_person_1 #amp_person_4">us</rs> know when we<lb/>
-                  could call <unclear>,_</unclear>
+                  Many thanks for <rs type="event" ref="#amp_event_id_68">your card</rs>.
+                  <lb/>Cant get i<unclear>m</unclear> t<unclear>o</unclear> <rs type="place" ref="#amp_place_id_1">Vienna</rs> before
+                  <lb/><unclear>Fr</unclear>iday<unclear>,</unclear> but do come and see <rs type="person" ref="#amp_person_1 #amp_person_4">us</rs>
+                  <lb/>eith<unclear>e</unclear>r on your way to or from
+                  <lb/><rs type="place" ref="#amp_place_id_7">Fridau</rs>,or let <rs type="person" ref="#amp_person_1 #amp_person_4">us</rs> know when we
+                  <lb/>could call <unclear>,_</unclear>
                </p>
                <closer>
                   <signed><rs type="person" ref="#amp_person_1">Wystan</rs></signed>

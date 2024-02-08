@@ -139,21 +139,21 @@ for any purpose, even commercially.</p>
                   <rs type="event" ref="#amp_event_id_17">Dines wi<unclear>th</unclear> <rs type="person" ref="#amp_person_109"><foreign xml:lang="de">Pfa<unclear>rr</unclear>er</foreign></rs></rs>.
                </ab>
                <ab xml:lang="de">
-                  <rs type="person" ref="#amp_person_2">Die Baronin<lb/>
-                  Stella Musulin</rs><lb/>
+                  <rs type="person" ref="#amp_person_2">Die Baronin
+                     <lb/>Stella Musulin</rs>
                   <address>   
-                     <rs type="place" ref="#amp_place_id_11">Wien III<lb/>
-                     Neulinggasse 26.</rs>
+                     <lb/><rs type="place" ref="#amp_place_id_11">Wien III
+                     <lb/>Neulinggasse 26.</rs>
                   </address>   
                </ab>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0130/" type="envelope" ed="1v"/>
                <ab>
-                  <rs type="person" ref="#amp_person_1">WH<unclear>.</unclear>Auden<unclear>.</unclear></rs><lb/>
+                  <rs type="person" ref="#amp_person_1">WH<unclear>.</unclear>Auden<unclear>.</unclear></rs>
                   <seg hand="#printed">
                      <address>
-                        <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (<foreign xml:lang="de">WESTBAHN</foreign>)<lb/>
-                        HINTERHOLZ 6<lb/>
-                        <foreign xml:lang="de">N.-Ö.</foreign>, AUSTRIA</rs>
+                        <lb/><rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (<foreign xml:lang="de">WESTBAHN</foreign>)
+                        <lb/>HINTERHOLZ 6
+                        <lb/><foreign xml:lang="de">N.-Ö.</foreign>, AUSTRIA</rs>
                      </address>
                   </seg>    
                </ab>
@@ -166,9 +166,9 @@ for any purpose, even commercially.</p>
                         <placeName>
                            <seg hand="#printed">
                               <address>
-                                 <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (<foreign xml:lang="de">WESTBAHN</foreign>)<lb/>
-                                 HINTERHOLZ 6<lb/>
-                                 <foreign xml:lang="de">N.-Ö.</foreign>, AUSTRIA</rs>
+                                 <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (<foreign xml:lang="de">WESTBAHN</foreign>)
+                                    <lb/>HINTERHOLZ 6
+                                    <lb/><foreign xml:lang="de">N.-Ö.</foreign>, AUSTRIA</rs>
                               </address>
                            </seg>
                         </placeName>
@@ -176,9 +176,9 @@ for any purpose, even commercially.</p>
                      <salute>Dear <rs type="person" ref="#amp_person_2">Stella</rs>:</salute>
                   </opener>
                   <p>
-                     Friday or Satu<unclear>r</unclear>day fine,except<lb/>
-                     <rs type="event" ref="#amp_event_id_17"><rs type="person" ref="#amp_person_1 #amp_person_4">we</rs> dine <unclear>wi</unclear>t<unclear>h</unclear> the <rs type="person" ref="#amp_person_109"><foreign xml:lang="de">Pfarrer</foreign></rs> Saturday eve<unclear>ni</unclear>ng</rs>.<lb/>
-                     Do come to l<unclear>u</unclear>nch.
+                     Friday or Satu<unclear>r</unclear>day fine,except
+                     <lb/><rs type="event" ref="#amp_event_id_17"><rs type="person" ref="#amp_person_1 #amp_person_4">we</rs> dine <unclear>wi</unclear>t<unclear>h</unclear> the <rs type="person" ref="#amp_person_109"><foreign xml:lang="de">Pfarrer</foreign></rs> Saturday eve<unclear>ni</unclear>ng</rs>.
+                     <lb/>Do come to l<unclear>u</unclear>nch.
                   </p>
                   <closer>
                     <signed><rs type="person" ref="#amp_person_1">Wystan</rs>.</signed>

@@ -152,29 +152,29 @@ for any purpose, even commercially.</p>
                <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0001/" type="envelope" ed="1r"/>
                <ab><rs type="person" ref="#amp_person_4"><unclear>Ch</unclear>ester</rs> in <rs type="place" ref="#amp_place_id_14">Florence</rs><unclear>.</unclear></ab>
                <ab xml:lang="de">
-                  <rs type="person" ref="#amp_person_2">Die Ba<unclear>ron</unclear>in<lb/>
-                  Stella M<unclear>eu</unclear>ss<unclear>u</unclear>lin</rs><lb/>
+                  <rs type="person" ref="#amp_person_2">Die Ba<unclear>ron</unclear>in
+                     <lb/>Stella M<unclear>eu</unclear>ss<unclear>u</unclear>lin</rs>
                   <address>
-                     <rs type="place" ref="#amp_place_id_11"><del>Wien III</del><lb/>
-                     <del>Neulinggasse 26</del></rs>
+                     <lb/><rs type="place" ref="#amp_place_id_11"><del>Wien III</del>
+                     <lb/><del>Neulinggasse 26</del></rs>
                   </address>   
                </ab>
                <ab xml:lang="de">
                   <address>
-                     <rs type="place" ref="#amp_place_id_7">Fridau,<lb/>
-                     Obergrafendorf,<lb/>
-                     bei ST.PÖLTEN,<lb/>
-                     NÖ</rs>
+                     <rs type="place" ref="#amp_place_id_7">Fridau,
+                     <lb/>Obergrafendorf,
+                     <lb/>bei ST.PÖLTEN,
+                     <lb/>NÖ</rs>
                   </address>
                </ab>
                <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0002/" type="envelope" ed="1v"/>
                   <ab>
-                     <rs type="person" ref="#amp_person_1">W.H.Auden</rs><unclear>,</unclear><lb/>
+                     <rs type="person" ref="#amp_person_1">W.H.Auden</rs><unclear>,</unclear>
                      <seg hand="#printed">
                         <address>
-                           <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (<foreign xml:lang="de">WESTBAHN</foreign>)<lb/>
-                           HINTERHOLZ 6<lb/>
-                           <foreign xml:lang="de">N.-Ö.</foreign>, AUSTRIA</rs>
+                           <lb/><rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (<foreign xml:lang="de">WESTBAHN</foreign>)
+                           <lb/>HINTERHOLZ 6
+                           <lb/><foreign xml:lang="de">N.-Ö.</foreign>, AUSTRIA</rs>
                         </address>
                      </seg>
                   </ab>
@@ -188,9 +188,9 @@ for any purpose, even commercially.</p>
                         <placeName>
                            <seg hand="#printed">
                               <address>
-                                 <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (<foreign xml:lang="de">WESTBAHN</foreign>)<lb/>
-                                 HINTERHOLZ 6<lb/>
-                                 <foreign xml:lang="de">N.-Ö.</foreign>, AUSTRIA</rs>
+                                 <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (<foreign xml:lang="de">WESTBAHN</foreign>)
+                                 <lb/>HINTERHOLZ 6
+                                 <lb/><foreign xml:lang="de">N.-Ö.</foreign>, AUSTRIA</rs>
                               </address>
                            </seg>
                         </placeName>
@@ -198,16 +198,16 @@ for any purpose, even commercially.</p>
                      <salute>Dear <rs type="person" ref="#amp_person_2">Stella</rs>:</salute>
                   </opener>
                   <p>
-                     Delighted to hear you are <rs type="place" ref="#amp_place_id_11"><foreign xml:lang="de">zu Haus</foreign></rs>.<lb/>
-                     No, I d<unclear>i</unclear>dnt get any letter from you. <unclear>Pe</unclear>rhaps<lb/>
-                     it is in the <unclear>.</unclear><rs type="place" ref="#amp_place_id_15">U.S.</rs><unclear>,</unclear> <rs type="event" ref="#amp_event_id_69" ana="#ana_006">I shall be in <rs type="place" ref="#amp_place_id_1">Vienna</rs> this<lb/>
-                     coming week on Monday, <del>T<unclear>hur</unclear></del> Wednesday and Friday</rs>.<lb/>
-                     <rs type="event" ref="#amp_event_id_71">Wi<unclear>ll</unclear> try to call you to-mo<unclear>rrow</unclear></rs> to arrange<lb/>
-                     a meeting.
+                     Delighted to hear you are <rs type="place" ref="#amp_place_id_11"><foreign xml:lang="de">zu Haus</foreign></rs>.
+                     <lb/>No, I d<unclear>i</unclear>dnt get any letter from you. <unclear>Pe</unclear>rhaps
+                     <lb/>it is in the <unclear>.</unclear><rs type="place" ref="#amp_place_id_15">U.S.</rs><unclear>,</unclear> <rs type="event" ref="#amp_event_id_69" ana="#ana_006">I shall be in <rs type="place" ref="#amp_place_id_1">Vienna</rs> this
+                     <lb/>coming week on Monday, <del>T<unclear>hur</unclear></del> Wednesday and Friday</rs>.
+                     <lb/><rs type="event" ref="#amp_event_id_71">Wi<unclear>ll</unclear> try to call you to-mo<unclear>rrow</unclear></rs> to arrange
+                     <lb/>a meeting.
                   </p>
                   <p>
-                     <rs type="person" ref="#amp_person_4">Chester</rs> is at the moment in <rs type="place" ref="#amp_place_id_14">Florence</rs>,but<lb/>
-                     I <rs type="event" ref="#amp_event_id_84">expect him back on Tuesday</rs>.
+                     <rs type="person" ref="#amp_person_4">Chester</rs> is at the moment in <rs type="place" ref="#amp_place_id_14">Florence</rs>,but
+                     <lb/>I <rs type="event" ref="#amp_event_id_84">expect him back on Tuesday</rs>.
                   </p>
                   <closer>
                      <salute>love</salute>

@@ -171,29 +171,29 @@ for any purpose, even commercially.</p>
             <div type="envelope">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0011/" type="envelope" ed="1r"/>
                <ab hand="#handwritten" xml:lang="de">
-                  <rs type="person" ref="#amp_person_2">Die Baronin<lb/>
-                  S<unclear>t</unclear>ella Musulin</rs><lb/>
+                  <rs type="person" ref="#amp_person_2">Die Baronin
+                  <lb/>S<unclear>t</unclear>ella Musulin</rs>
                   <address>
-                     <rs type="place" ref="#amp_place_id_7"><del>Fridau</del><lb/>
-                     <del>Obergrabe<unclear>m</unclear>d<unclear>o</unclear>r<unclear>f</unclear></del><lb/>
-                     <del>b<unclear>e</unclear>i S. Pölten</del><lb/>
-                     <del>N.Ö</del></rs><lb/>
-                     <rs type="place" ref="#amp_place_id_10">Osterreich</rs>
+                     <lb/><rs type="place" ref="#amp_place_id_7"><del>Fridau</del>
+                     <lb/><del>Obergrabe<unclear>m</unclear>d<unclear>o</unclear>r<unclear>f</unclear></del>
+                     <lb/><del>b<unclear>e</unclear>i S. Pölten</del>
+                     <lb/><del>N.Ö</del></rs>
+                     <lb/><rs type="place" ref="#amp_place_id_10">Osterreich</rs>
                   </address>
                </ab>
                <ab hand="#handwritten" xml:lang="de">
                   <address>
-                     <rs type="place" ref="#amp_place_id_11">Wien III<lb/>
-                     Neuling<unclear>g</unclear>. 2<unclear>6</unclear>/1<unclear>4</unclear></rs>
+                     <rs type="place" ref="#amp_place_id_11">Wien III
+                     <lb/>Neuling<unclear>g</unclear>. 2<unclear>6</unclear>/1<unclear>4</unclear></rs>
                   </address>
                </ab>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0012/" type="envelope" ed="1v"/>
                <ab hand="#handwritten">
-                  <rs type="person" ref="#amp_person_1">W.H. Auden</rs><lb/>
+                  <rs type="person" ref="#amp_person_1">W.H. Auden</rs>
                   <address>
-                     <rs type="place" ref="#amp_place_id_19">Berlin-Dahlem<lb/>
-                     Hubertusbaderstrasse <unclear>4</unclear>3<lb/>
-                     Germany</rs>
+                     <lb/><rs type="place" ref="#amp_place_id_19">Berlin-Dahlem
+                     <lb/>Hubertusbaderstrasse <unclear>4</unclear>3
+                     <lb/>Germany</rs>
                   </address>
                </ab>
             </div>
@@ -201,8 +201,8 @@ for any purpose, even commercially.</p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0133/" type="sheet" ed="2r"/>
                <div type="poem">
                   <head>
-                     <space extent="undefined quantity of characters plus minimum" min="5" unit="char"/><rs type="lit_work" ref="#lit_work_id_61"><hi rend="underline"><rs type="person" ref="#amp_person_5">JOSEPH WEINHEBER</rs></hi><lb/>
-                     <space extent="undefined quantity of characters plus minimum" min="7" unit="char"/>(<hi rend="underline">I892-I945)</hi></rs>
+                     <space extent="undefined quantity of characters plus minimum" min="5" unit="char"/><rs type="lit_work" ref="#lit_work_id_61"><hi rend="underline"><rs type="person" ref="#amp_person_5">JOSEPH WEINHEBER</rs></hi>
+                     <lb/><space extent="undefined quantity of characters plus minimum" min="7" unit="char"/>(<hi rend="underline">I892-I945)</hi></rs>
                   </head>
                   <lg>
                      <lb/><space extent="undefined quantity of characters"/><l>Reachi<del>j</del>ng my gate a narrow</l>
@@ -359,10 +359,10 @@ for any purpose, even commercially.</p>
                      <lb/><space quantity="15" unit="char"/><l><hi rend="underline"><foreign xml:lang="de">Abgrund zu nennen</foreign></hi>.(2)</l>
                   </lg>
                   <ab>
-                     <space quantity="23" unit="char"/>___<lb/>
-                     <del>N</del> <space quantity="1" unit="char"/>I) Quotation from <rs type="person" ref="#amp_person_5">W<del>8</del></rs><unclear>'</unclear>s poem <hi rend="underline"><rs type="lit_work" ref="#lit_work_id_40">Auf das Unabwendbare</rs></hi>.<lb/>
-                     <space quantity="3" unit="char"/>2) Quotation from <rs type="person" ref="#amp_person_5">W</rs>'s poem <hi rend="underline"><rs type="lit_work" ref="#lit_work_id_41">Kammermusik</rs></hi>.<lb/>
-                     <space quantity="24" unit="char"/>__
+                     <space quantity="23" unit="char"/>___
+                     <lb/><del>N</del> <space quantity="1" unit="char"/>I) Quotation from <rs type="person" ref="#amp_person_5">W<del>8</del></rs><unclear>'</unclear>s poem <hi rend="underline"><rs type="lit_work" ref="#lit_work_id_40">Auf das Unabwendbare</rs></hi>.
+                     <lb/><space quantity="3" unit="char"/>2) Quotation from <rs type="person" ref="#amp_person_5">W</rs>'s poem <hi rend="underline"><rs type="lit_work" ref="#lit_work_id_41">Kammermusik</rs></hi>.
+                     <lb/><space quantity="24" unit="char"/>__
                   </ab>
                </div>
                <div type="letter_message">
@@ -370,9 +370,9 @@ for any purpose, even commercially.</p>
                      <space quantity="9" unit="char"/><salute>Dear <rs type="person" ref="#amp_person_2">Stella</rs>:</salute>
                   </opener>
                   <p>
-                     <space quantity="1" unit="char"/><rs type="place" ref="#amp_place_id_5">Kirchstetten</rs> is intending to have a <rs type="event" ref="#amp_event_id_49">cer<del>o</del>emony in memory of the twentieth<lb/>
-                     <space quantity="1" unit="char"/>anniversary of <rs type="person" ref="#amp_person_5">Weinheber</rs>'<del>w</del>s <space quantity="1" unit="char"/>death</rs>. <space quantity="1" unit="char"/>Herewith my effort to do my<lb/>
-                     <space quantity="1" unit="char"/><hi rend="underline"><rs type="note" ana="#ana_008"><foreign xml:lang="de">Gemeindepflicht</foreign></rs>.</hi>
+                     <space quantity="1" unit="char"/><rs type="place" ref="#amp_place_id_5">Kirchstetten</rs> is intending to have a <rs type="event" ref="#amp_event_id_49">cer<del>o</del>emony in memory of the twentieth
+                     <lb/><space quantity="1" unit="char"/>anniversary of <rs type="person" ref="#amp_person_5">Weinheber</rs>'<del>w</del>s <space quantity="1" unit="char"/>death</rs>. <space quantity="1" unit="char"/>Herewith my effort to do my
+                     <lb/><space quantity="1" unit="char"/><hi rend="underline"><rs type="note" ana="#ana_008"><foreign xml:lang="de">Gemeindepflicht</foreign></rs>.</hi>
                   </p>
                   <closer>
                      <space quantity="17" unit="char"/><salute>love</salute>
@@ -382,8 +382,8 @@ for any purpose, even commercially.</p>
                   </closer>
                   <postscript hand="#handwritten">
                      <p>
-                        P.S. <rs type="event" ref="#amp_event_id_85">Expect to return <rs type="place" ref="#amp_place_id_5">K</rs> April 22nd</rs>. Do hope you<lb/>
-                        wil<unclear>l</unclear> be around<unclear>.</unclear>
+                        P.S. <rs type="event" ref="#amp_event_id_85">Expect to return <rs type="place" ref="#amp_place_id_5">K</rs> April 22nd</rs>. Do hope you
+                        <lb/>wil<unclear>l</unclear> be around<unclear>.</unclear>
                      </p>
                   </postscript>
                </div>

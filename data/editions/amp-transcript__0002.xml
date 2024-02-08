@@ -201,29 +201,29 @@ for any purpose, even commercially.</p>
                   <rs type="lit_work" ref="#lit_work_id_60">Weinheber-Gedicht</rs>
                </ab>
                <ab>
-                  <rs type="person" ref="#amp_person_2">Die Baronin<lb/>
-                  Stella Musulin</rs><lb/>
+                  <rs type="person" ref="#amp_person_2">Die Baronin
+                  <lb/>Stella Musulin</rs>
                   <address>
-                     <rs type="place" ref="#amp_place_id_7"><del>Fridau</del><lb/>
-                     <del>Obergrafendorf</del><lb/>
-                     <del>bei<unclear>.</unclear> S. Pölten</del><lb/>
-                     <del>NÖ</del></rs><lb/>
-                     <rs type="place" ref="#amp_place_id_10">Osterreich</rs>
+                     <lb/><rs type="place" ref="#amp_place_id_7"><del>Fridau</del>
+                     <lb/><del>Obergrafendorf</del>
+                     <lb/><del>bei<unclear>.</unclear> S. Pölten</del>
+                     <lb/><del>NÖ</del></rs>
+                     <lb/><rs type="place" ref="#amp_place_id_10">Osterreich</rs>
                   </address>
                </ab>
                <ab>
                   <address>
-                     <rs type="place" ref="#amp_place_id_11">Wien IV<lb/>
-                     Neulinggasse 26/14</rs>
+                     <rs type="place" ref="#amp_place_id_11">Wien IV
+                     <lb/>Neulinggasse 26/14</rs>
                   </address>
                </ab>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0008/" type="envelope" ed="1v"/>
                <ab>
-                  <rs type="person" ref="#amp_person_1">W H Auden</rs><lb/>
+                  <rs type="person" ref="#amp_person_1">W H Auden</rs>
                   <address>
-                     <rs type="place" ref="#amp_place_id_19">Berlin<unclear>-</unclear>Dahlem<lb/>
-                     Hubertusbaderstrasse 43<lb/>
-                     Deut<unclear>s</unclear>c<unclear>h</unclear>land<unclear>·</unclear></rs>
+                     <lb/><rs type="place" ref="#amp_place_id_19">Berlin<unclear>-</unclear>Dahlem
+                     <lb/>Hubertusbaderstrasse 43
+                     <lb/>Deut<unclear>s</unclear>c<unclear>h</unclear>land<unclear>·</unclear></rs>
                   </address>
                </ab>
             </div>
@@ -234,8 +234,8 @@ for any purpose, even commercially.</p>
                      <dateline>
                         <placeName>
                            <address>
-                              <rs type="place" ref="#amp_place_id_19">Berlin<unclear>.</unclear>Dahlem<lb/>
-                              Hubertusbaderstrasse 43</rs>
+                              <rs type="place" ref="#amp_place_id_19">Berlin<unclear>.</unclear>Dahlem
+                              <lb/>Hubertusbaderstrasse 43</rs>
                            </address>
                         </placeName>
                         <date rend="#block">Dec 23rd</date>
@@ -243,30 +243,30 @@ for any purpose, even commercially.</p>
                      <salute>Dear <rs type="person" ref="#amp_person_2">Stella</rs>:</salute>
                   </opener>
                   <p>
-                     <rs type="event" ref="#amp_event_id_70" ana="#ana_007">It <hi rend="underline">was</hi> sweet of you to think of me at<lb/>
-                     Christmas</rs> ,especially since it's a little <foreign xml:lang="de">einsam</foreign> here.<lb/>
-                     Am beginning to know some local inhabitants. Oddly enough,<lb/>
-                     the ones I can talk to most easily ar from <rs type="place" ref="#amp_place_id_21"><foreign xml:lang="de"><unclear>O</unclear>st-Berlin</foreign></rs><unclear>,</unclear><lb/>
-                     The most awful thi<unclear>ng</unclear> about the <foreign xml:lang="de">Bifk<unclear>e</unclear>s</foreign> is that<lb/>
-                     they are so much nicer under a little <hi rend="underline"><foreign xml:lang="de">Druck</foreign></hi>.<lb/>
-                     When they feel their oats they are so apt to become<lb/>
-                     uppish.
+                     <rs type="event" ref="#amp_event_id_70" ana="#ana_007">It <hi rend="underline">was</hi> sweet of you to think of me at
+                     <lb/>Christmas</rs> ,especially since it's a little <foreign xml:lang="de">einsam</foreign> here.
+                     <lb/>Am beginning to know some local inhabitants. Oddly enough,
+                     <lb/>the ones I can talk to most easily ar from <rs type="place" ref="#amp_place_id_21"><foreign xml:lang="de"><unclear>O</unclear>st-Berlin</foreign></rs><unclear>,</unclear>
+                     <lb/>The most awful thi<unclear>ng</unclear> about the <foreign xml:lang="de">Bifk<unclear>e</unclear>s</foreign> is that
+                     <lb/>they are so much nicer under a little <hi rend="underline"><foreign xml:lang="de">Druck</foreign></hi>.
+                     <lb/>When they feel their oats they are so apt to become
+                     <lb/>uppish.
                   </p>
                   <p>
-                     If I'd known,I'd have warned you about <rs type="org" ref="#amp_organization_24"><hi rend="underline"><unclear>T</unclear>he</hi><lb/>
-                     <hi rend="underline">National Review</hi></rs>. I once <rs type="lit_work" ref="#lit_work_id_96">reviewed</rs> a <rs type="person" ref="#amp_person_6">Charles Williams</rs><lb/>
-                     <rs type="lit_work" ref="#lit_work_id_95">book</rs> for them - never again. Of course <unclear>y</unclear>ou're right<lb/>
-                     about the lib-labs ostrich attitude to those who<lb/>
-                     wish to destroy them, but one cannot let one's name<lb/>
-                     be associated with shits.
+                     If I'd known,I'd have warned you about <rs type="org" ref="#amp_organization_24"><hi rend="underline"><unclear>T</unclear>he</hi>
+                     <lb/><hi rend="underline">National Review</hi></rs>. I once <rs type="lit_work" ref="#lit_work_id_96">reviewed</rs> a <rs type="person" ref="#amp_person_6">Charles Williams</rs>
+                     <lb/><rs type="lit_work" ref="#lit_work_id_95">book</rs> for them - never again. Of course <unclear>y</unclear>ou're right
+                     <lb/>about the lib-labs ostrich attitude to those who
+                     <lb/>wish to destroy them, but one cannot let one's name
+                     <lb/>be associated with shits.
                   </p>
                   <p>
-                     Torture is the iniquity which utterly bewilders me.<lb/>
-                     I know something about the evil in my own heart and<lb/>
-                     <del><gap reason="deleted"/></del><unclear>i</unclear>n the <unclear>s</unclear>o<unclear>r</unclear>t of people I <del>know</del>meet, but I cannot conceive of myself<lb/>
-                     or them torturing anybody. <rs type="note" ana="#ana_023">Where do the torturers<lb/>
-                     come from? What class? Whom do they marry?<lb/>
-                     <del>Have you ever met one<unclear>?</unclear></del> To what pubs do they go?</rs>
+                     Torture is the iniquity which utterly bewilders me.
+                     <lb/>I know something about the evil in my own heart and>
+                     <lb/><del><gap reason="deleted"/></del><unclear>i</unclear>n the <unclear>s</unclear>o<unclear>r</unclear>t of people I <del>know</del>meet, but I cannot conceive of myself
+                     <lb/>or them torturing anybody. <rs type="note" ana="#ana_023">Where do the torturers
+                     <lb/>come from? What class? Whom do they marry?
+                     <lb/><del>Have you ever met one<unclear>?</unclear></del> To what pubs do they go?</rs>
                   </p>
                   <closer>
                      <salute>much love and best wishes for 1<unclear>9</unclear>65</salute>
