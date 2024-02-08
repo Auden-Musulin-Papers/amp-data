@@ -136,21 +136,21 @@ for any purpose, even commercially.</p>
             <div type="envelope">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0109/" type="envelope" ed="1r"/>
                <ab xml:lang="de">
-                  <rs type="person" ref="#amp_person_1">W. H<unclear>.</unclear> Auden</rs><lb/>
+                  <rs type="person" ref="#amp_person_1">W. H<unclear>.</unclear> Auden</rs>
                   <address>  
-                     <rs type="place" ref="#amp_place_id_2">Kirchstetten (West Bah<unclear>n</unclear>)<lb/>
-                     Hinterholz # 6.<lb/>
-                     N.O.</rs>
+                        <lb/><rs type="place" ref="#amp_place_id_2">Kirchstetten (West Bah<unclear>n</unclear>)
+                        <lb/>Hinterholz # 6.
+                        <lb/>N.O.</rs>
                   </address>
                </ab>
                <ab xml:lang="de">
-                  <rs type="person" ref="#amp_person_2">Die Baronin<lb/>
-                  Stella M<unclear>us</unclear>ulin</rs><lb/>
+                  <rs type="person" ref="#amp_person_2">Die Baronin
+                     <lb/>Stella M<unclear>us</unclear>ulin</rs>
                   <address>
-                     <rs type="place" ref="#amp_place_id_7">Fridau<lb/>
-                     Obergrafendorf<lb/>
-                     bei St. Pölten<lb/>
-                     N.<unclear>O</unclear></rs>
+                        <lb/><rs type="place" ref="#amp_place_id_7">Fridau
+                        <lb/>Obergrafendorf
+                        <lb/>bei St. Pölten
+                        <lb/>N.<unclear>O</unclear></rs>
                   </address>
                </ab>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0110/" type="envelope" ed="1v"/>
@@ -166,21 +166,21 @@ for any purpose, even commercially.</p>
                               <rs type="place" ref="#amp_place_id_5">Kirstetten.</rs>
                            </seg>
                            <seg hand="#printed">
-                              <rs type="org" ref="#amp_organization_6"><del>CHRIST CHURCH,</del><lb/>
-                              <del>OXFORD.</del></rs>
+                              <rs type="org" ref="#amp_organization_6"><del>CHRIST CHURCH,</del>
+                              <lb/><del>OXFORD.</del></rs>
                            </seg>
                         </placeName>
                      </dateline>
                      <salute>Dear <rs type="person" ref="#amp_person_2">Baroness Musulin</rs>:</salute>
                   </opener>
                   <p>
-                     Delighted to <rs type="event" ref="#amp_event_id_62">get your ca<unclear>rd</unclear></rs>. <rs type="person" ref="#amp_person_1 #amp_person_4">We</rs><lb/>
-                     shall look forw<unclear>a</unclear>rd to <rs type="event" ref="#amp_event_id_63">seeing you<lb/>
-                     on Saturday aftern<unclear>o</unclear>on</rs>.
+                     Delighted to <rs type="event" ref="#amp_event_id_62">get your ca<unclear>rd</unclear></rs>. <rs type="person" ref="#amp_person_1 #amp_person_4">We</rs>
+                     <lb/>shall look forw<unclear>a</unclear>rd to <rs type="event" ref="#amp_event_id_63">seeing you
+                    <lb/>on Saturday aftern<unclear>o</unclear>on</rs>.
                   </p>
                   <p>
-                     We have a gramophone now <hi rend="underline">and</hi> a<lb/>
-                     tape-rec<unclear>o</unclear>rder.
+                     We have a gramophone now <hi rend="underline">and</hi> a
+                     <lb/>tape-rec<unclear>o</unclear>rder.
                   </p>
                   <closer>
                      <salute>yours sinc<unclear>e</unclear>rely</salute>
