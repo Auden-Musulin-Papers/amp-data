@@ -157,15 +157,15 @@
                                     <placeName>
                                         <seg hand="#printed">
                                             <address>
-                                                <rs type="place" ref="#amp_place_id_11">WIEN III.,<lb/>
+                                                <lb/><rs type="place" ref="#amp_place_id_11">WIEN III.,
                                                 NEULINGGASSE 26</rs>
                                             </address>
                                         </seg>
                                         <seg hand="#printed">
                                             <address>
-                                                <rs type="place" ref="#amp_place_id_7">FRIDAU<lb/>
-                                                OBERGRAFENDORF<lb/>
-                                                bei ST. PÖLTEN, N. Ö.</rs>
+                                                <rs type="place" ref="#amp_place_id_7">FRIDAU
+                                                <lb/>OBERGRAFENDORF
+                                                <lb/>bei ST. PÖLTEN, N. Ö.</rs>
                                             </address>
                                         </seg>
                                     </placeName>
@@ -174,61 +174,61 @@
                                 <salute>Sehr geehrte <rs type="person" ref="#amp_person_204">Frau Busta</rs>,</salute>
                             </opener>
                             <p>
-                                Ich wollte Sie heute Abend nicht<lb/>
-                                aufhalten<unclear>.</unclear> Sie hätten sich wahrscheinlich nicht<lb/>
-                                an mich erinnert <unclear>_</unclear> vor drei, vier Jahren<lb/>
-                                habe ich Sie im <rs type="place" ref="#amp_place_id_301" ana="#ana_019">Caféhaus "<unclear>D</unclear>rei viertel"</rs><lb/>
-                                "<foreign xml:lang="en">interviewed</foreign>"; und doch möchte ich mich<lb/>
-                                für die Freude, die <del>sich</del> Sie mir heute gemacht<lb/>
-                                haben, bedanken.    
+                                Ich wollte Sie heute Abend nicht
+                                <lb/>aufhalten<unclear>.</unclear> Sie hätten sich wahrscheinlich nicht
+                                <lb/>an mich erinnert <unclear>_</unclear> vor drei, vier Jahren
+                                <lb/>habe ich Sie im <rs type="place" ref="#amp_place_id_301" ana="#ana_019">Caféhaus "<unclear>D</unclear>rei viertel"</rs>
+                                <lb/>"<foreign xml:lang="en">interviewed</foreign>"; und doch möchte ich mich
+                                <lb/>für die Freude, die <del>sich</del> Sie mir heute gemacht
+                                <lb/>haben, bedanken.    
                             </p>
                             <p>
-                                Dieser Brief hat aber einen weiteren Grund.<lb/>
-                                <rs type="person" ref="#amp_person_1">Professor Auden</rs> begrüsste Sie <unclear>_</unclear> und verschwand.<lb/>
-                                Er ist ein erstaunlich bescheidener Mensch<lb/>
-                                und verabscheut es<unclear>,</unclear> sich _ auch im kleinsten<lb/>
-                                Dorf - irgendwie bemerkbar zu machen. Ich<lb/>
-                                wollte Ihnen daher sagen, daß er gleich<lb/>
-                                darauf und auch beim Abendessen <hi rend="underline">sehr</hi><lb/>
-                                anerkennende Worte über Ihre Dichtung<lb/>
-                                gesprochen hat. Wenn Sie erlauben: auch<lb/>
-                                Ihr Wesen, und die Art, wie Sie vorlesen,<lb/>
-                                <del><gap reason="deleted"/></del>sind ihm sehr sympathisch .
+                                Dieser Brief hat aber einen weiteren Grund.
+                                <lb/><rs type="person" ref="#amp_person_1">Professor Auden</rs> begrüsste Sie <unclear>_</unclear> und verschwand.
+                                <lb/>Er ist ein erstaunlich bescheidener Mensch
+                                <lb/>und verabscheut es<unclear>,</unclear> sich _ auch im kleinsten
+                                <lb/>Dorf - irgendwie bemerkbar zu machen. Ich
+                                <lb/>wollte Ihnen daher sagen, daß er gleich
+                                <lb/>darauf und auch beim Abendessen <hi rend="underline">sehr</hi>
+                                <lb/>anerkennende Worte über Ihre Dichtung
+                                <lb/>gesprochen hat. Wenn Sie erlauben: auch
+                                <lb/>Ihr Wesen, und die Art, wie Sie vorlesen,
+                                <lb/><del><gap reason="deleted"/></del>sind ihm sehr sympathisch .
                             </p>
                             <p>
-                                Sein Freund und Mitarbeiter <rs type="person" ref="#amp_person_4">Chester<lb/>
-                                Kallman</rs>, war auch da<unclear><del>r</del></unclear>. Er ist ebenfalls<lb/>
-                                Dichter, vor allem Librettist (<rs type="person" ref="#amp_person_25">Stravinsky</rs>,<lb/>
-                                <rs type="person" ref="#amp_person_79">Henze</rs>, <rs type="person" ref="#amp_person_115">Brecht</rs> u.s.w.) Er versteht zu wenig<lb/>
-                                Deutsch, es hat mich aber interessiert,
+                                Sein Freund und Mitarbeiter <rs type="person" ref="#amp_person_4">Chester
+                                <lb/>Kallman</rs>, war auch da<unclear><del>r</del></unclear>. Er ist ebenfalls
+                                <lb/>Dichter, vor allem Librettist (<rs type="person" ref="#amp_person_25">Stravinsky</rs>,
+                                <lb/><rs type="person" ref="#amp_person_79">Henze</rs>, <rs type="person" ref="#amp_person_115">Brecht</rs> u.s.w.) Er versteht zu wenig
+                                <lb/>Deutsch, es hat mich aber interessiert,
                             </p>
                          <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0464/" type="sheet" ed="1v"/>
                             <p prev="true">
-                                daß er imstande war, von der Technik<lb/>
-                                Ihrer Dichtung eine Menge herauszuhören<lb/>
-                                die der Laie, wenn er nur für den Inhalt<lb/>
-                                Ohren hat<unclear>,</unclear> oft überhört .
+                                daß er imstande war, von der Technik
+                                <lb/>Ihrer Dichtung eine Menge herauszuhören
+                                <lb/>die der Laie, wenn er nur für den Inhalt
+                                <lb/>Ohren hat<unclear>,</unclear> oft überhört .
                             </p>
                             <p>
-                                Übrigens: warum wohl niemand <del>die</del>nach den<lb/>
-                                <rs type="lit_work" ref="#lit_work_id_156">"Hinterhöfen"</rs> applaudiert hat? Eins Ihrer<lb/>
-                                <unclear>S</unclear>chönsten Gedichten<unclear>,</unclear> hat es etwas<lb/>
-                                (ärgern Sie sich nicht) <rs type="person" ref="#amp_person_42">Hofmannsthal</rs>sches<lb/>
-                                an sich.
+                                Übrigens: warum wohl niemand <del>die</del>nach den
+                                <lb/><rs type="lit_work" ref="#lit_work_id_156">"Hinterhöfen"</rs> applaudiert hat? Eins Ihrer
+                                <lb/><unclear>S</unclear>chönsten Gedichten<unclear>,</unclear> hat es etwas
+                                <lb/>(ärgern Sie sich nicht) <rs type="person" ref="#amp_person_42">Hofmannsthal</rs>sches
+                                <lb/>an sich.
                             </p>
                             <p>
-                                Sehr geehrte <rs type="person" ref="#amp_person_204">Frau Busta</rs>, ich werde diesen<lb/> 
-                                Brief sofort beenden, es ist ohnehin schon<lb/> 
-                                halb eins! Halten Sie diesen Brief<lb/> 
-                                <hi rend="underline">bitte</hi> nicht für irgend eine Art von<lb/>
-                                Wichtigtuerei, ich wollte nur <rs type="person" ref="#amp_person_1">Auden</rs>s<lb/>
-                                Lob weiterreichen.
+                                Sehr geehrte <rs type="person" ref="#amp_person_204">Frau Busta</rs>, ich werde diesen
+                                <lb/>Brief sofort beenden, es ist ohnehin schon 
+                                <lb/>halb eins! Halten Sie diesen Brief
+                                <lb/><hi rend="underline">bitte</hi> nicht für irgend eine Art von
+                                <lb/>Wichtigtuerei, ich wollte nur <rs type="person" ref="#amp_person_1">Auden</rs>s
+                                <lb/>Lob weiterreichen.
                             </p>
                             <closer>
                                 <salute>
-                                    Mit herzlichen Grüssen und<lb/>
-                                    besten Wü<unclear><del>s</del>n</unclear>schen<lb/>
-                                    Ihre
+                                    Mit herzlichen Grüssen und
+                                    <lb/>besten Wü<unclear><del>s</del>n</unclear>schen
+                                    <lb/>Ihre
                                 </salute>
                                 <signed><rs type="person" ref="#amp_person_2">Stella Musulin</rs> .</signed>
                             </closer>

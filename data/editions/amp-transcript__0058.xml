@@ -152,11 +152,11 @@ for any purpose, even commercially.</p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0107/" type="sheet" ed="1r"/>
                <div> 
                   <ab xml:lang="de">
-                     K<unclear>ö</unclear>nnen Sie Mittwoch<lb/>
-                     <unclear>a</unclear>ns<unclear>t</unclear>att Donnerstag zum Abend<unclear>e</unclear>ssen kommen<lb/>
+                     K<unclear>ö</unclear>nnen Sie Mittwoch
+                     <lb/><unclear>a</unclear>ns<unclear>t</unclear>att Donnerstag zum Abend<unclear>e</unclear>ssen kommen
                   </ab>
                   <ab>
-                     <rs type="person" ref="#amp_person_1">Auden</rs>
+                     <lb/><rs type="person" ref="#amp_person_1">Auden</rs> <!-- I have my doubts whether we should introduce '<lb/>' here as we treat '<ab>' is like '<p>' to us -->
                   </ab>
                </div>
                <div type="letter_message">
@@ -165,9 +165,9 @@ for any purpose, even commercially.</p>
                         <placeName>
                            <seg hand="#printed">
                               <address>
-                                 <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (<foreign xml:lang="de">WESTBAHN</foreign>)<lb/>
-                                 HINTERHOLZ 6<lb/>
-                                 <foreign xml:lang="de">N.-Ö.</foreign>, AUSTRIA</rs>
+                                 <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (<foreign xml:lang="de">WESTBAHN</foreign>)
+                                    <lb/>HINTERHOLZ 6
+                                    <lb/><foreign xml:lang="de">N.-Ö.</foreign>, AUSTRIA</rs>
                               </address>
                            </seg>
                         </placeName>
@@ -178,8 +178,8 @@ for any purpose, even commercially.</p>
                      <salute>Dear <rs type="person" ref="#amp_person_2">Stella</rs>:</salute>
                   </opener>
                   <p>
-                     Good. <rs type="event" ref="#amp_event_id_64">Will be at <rs type="place" ref="#amp_place_id_315" ana="#ana_003">your place</rs><lb/>
-                     on Thu<unclear>r</unclear>sday (19th) at 6.p.m<unclear>.</unclear></rs>
+                     Good. <rs type="event" ref="#amp_event_id_64">Will be at <rs type="place" ref="#amp_place_id_315" ana="#ana_003">your place</rs>
+                     <lb/>on Thu<unclear>r</unclear>sday (19th) at 6.p.m<unclear>.</unclear></rs>
                   </p>
                   <closer>
                      <signed><rs type="person" ref="#amp_person_1">Wystan</rs></signed>

@@ -133,10 +133,10 @@ for any purpose, even commercially.</p>
                   <gap reason="illegible"/>
                </ab>
                <ab xml:lang="de">
-                  <rs type="person" ref="#amp_person_2">Die Baro<unclear>n</unclear>in Stell<unclear>a</unclear> Mus<unclear>so</unclear>lin</rs><lb/>
+                  <rs type="person" ref="#amp_person_2">Die Baro<unclear>n</unclear>in Stell<unclear>a</unclear> Mus<unclear>so</unclear>lin</rs>
                   <address> 
-                     <rs type="place" ref="#amp_place_id_11">Wien III<lb/>
-                     Neulingasse 26.</rs>
+                     <lb/><rs type="place" ref="#amp_place_id_11">Wien III
+                     <lb/>Neulingasse 26.</rs>
                   </address> 
                </ab>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0032/" type="envelope" ed="1v"/>
@@ -144,9 +144,9 @@ for any purpose, even commercially.</p>
                   <rs type="person" ref="#amp_person_1">W<unclear>.</unclear>H<unclear>.</unclear> Auden</rs>
                   <seg hand="#printed">
                      <address>
-                        <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (<foreign xml:lang="de">WESTBAHN</foreign>)<lb/>
-                        HINTERHOLZ 6<lb/>
-                        <foreign xml:lang="de">N.-Ö.</foreign>, AUSTRIA</rs>
+                        <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (<foreign xml:lang="de">WESTBAHN</foreign>)
+                        <lb/>HINTERHOLZ 6
+                        <lb/><foreign xml:lang="de">N.-Ö.</foreign>, AUSTRIA</rs>
                      </address>
                   </seg>   
                </ab>
@@ -160,9 +160,9 @@ for any purpose, even commercially.</p>
                         <placeName>
                            <seg hand="#printed">
                               <address>
-                                 <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (<foreign xml:lang="de">WESTBAHN</foreign>)<lb/>
-                                 HINTERHOLZ 6<lb/>
-                                 <foreign xml:lang="de">N.-Ö.</foreign>, AUSTRIA</rs>
+                                 <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (<foreign xml:lang="de">WESTBAHN</foreign>)
+                                    <lb/>HINTERHOLZ 6
+                                    <lb/><foreign xml:lang="de">N.-Ö.</foreign>, AUSTRIA</rs>
                               </address>
                            </seg>
                         </placeName>

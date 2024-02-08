@@ -143,19 +143,19 @@ for any purpose, even commercially.</p>
             <div type="envelope">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0105/" type="envelope" ed="1r"/>
                <ab xml:lang="de">
-                  <rs type="person" ref="#amp_person_2">Die Baronin<lb/>
-                  Stella Mussolin</rs><lb/>
+                  <rs type="person" ref="#amp_person_2">Die Baronin
+                  <lb/>Stella Mussolin</rs>
                   <address>
-                     <rs type="place" ref="#amp_place_id_11"><del>WIEN III</del><lb/>
-                     <del>Neulinggasse 26</del></rs>
+                     <lb/><rs type="place" ref="#amp_place_id_11"><del>WIEN III</del>
+                     <lb/><del>Neulinggasse 26</del></rs>
                   </address>
                </ab>
                <ab hand="#handwritten" xml:lang="de">
                   <address>
-                     <rs type="place" ref="#amp_place_id_7">FRIDAU<lb/>
-                     OBERGRAFENDORF<lb/>
-                     BEI ST<unclear>-</unclear>PÖLTEN<lb/>
-                     N.Ö.</rs>
+                     <rs type="place" ref="#amp_place_id_7">FRIDAU
+                        <lb/>OBERGRAFENDORF
+                        <lb/>BEI ST<unclear>-</unclear>PÖLTEN
+                        <lb/>N.Ö.</rs>
                   </address>
                </ab>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0106/" type="envelope" ed="1v"/>
@@ -163,9 +163,9 @@ for any purpose, even commercially.</p>
                   <rs type="person" ref="#amp_person_1">W.H.Auden</rs>
                   <seg hand="#printed">
                      <address>
-                        <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (<foreign xml:lang="de">WESTBAHN</foreign>)<lb/>
-                        HINTERHOLZ 6<lb/>
-                        <foreign xml:lang="de">N.-Ö.</foreign>, AUSTRIA</rs>
+                        <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (<foreign xml:lang="de">WESTBAHN</foreign>)
+                           <lb/>HINTERHOLZ 6
+                           <lb/><foreign xml:lang="de">N.-Ö.</foreign>, AUSTRIA</rs>
                      </address>
                   </seg>
                </ab>

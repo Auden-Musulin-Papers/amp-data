@@ -159,23 +159,23 @@ for any purpose, even commercially.</p>
                         <placeName xml:lang="de">
                            <seg hand="#printed">
                               <address>
-                                 <rs type="place" ref="#amp_place_id_7">A-3200 Fridau<lb/> 
-                                 Obergrafendorf<lb/> 
-                                 bei St. Pölten, NÖ.</rs><lb/>
-                                 <addrLine>Telefon 0 27 47 / 311</addrLine>
+                                 <rs type="place" ref="#amp_place_id_7">A-3200 Fridau
+                                 <lb/>Obergrafendorf
+                                 <lb/>bei St. Pölten, NÖ.</rs>
+                                 <lb/><addrLine>Telefon 0 27 47 / 311</addrLine>
                               </address>
                            </seg>
                            <seg hand="#printed">
                               <address>
-                                 <rs type="place" ref="#amp_place_id_11">Neulinggasse 26/14<lb/> 
-                                 A-1030 Wien</rs><lb/>
-                                 <addrLine>Telefon 73 94 015</addrLine><lb/>
+                                 <rs type="place" ref="#amp_place_id_11">Neulinggasse 26/14
+                                 <lb/>A-1030 Wien</rs>
+                                 <lb/><addrLine>Telefon 73 94 015</addrLine>
                               </address>
                            </seg>
                         </placeName>
                         <date rend="#block">
                            <seg hand="#handwritten">
-                              16th April .
+                              <lb/>16th April . <!-- I dont think that '<lb/>' should be placed here -->
                            </seg>
                         </date>
                      </dateline>
@@ -184,14 +184,14 @@ for any purpose, even commercially.</p>
                      </salute>
                   </opener>
                   <p>  
-                     <space quantity="5" unit="char"/>Are you <rs type="place" ref="#amp_place_id_2">there</rs>? <space unit="char" quantity="1"/>May I come across for<lb/> 
-                     a cuppa? <space unit="char" quantity="1"/>I shall be at <rs type="place" ref="#amp_place_id_7">Fridau</rs> over Easter<lb/> 
-                     but am otherwise mostly in <rs type="place" ref="#amp_place_id_11">Vienna</rs>.
+                     <space quantity="5" unit="char"/>Are you <rs type="place" ref="#amp_place_id_2">there</rs>? <space unit="char" quantity="1"/>May I come across for
+                     <lb/>a cuppa? <space unit="char" quantity="1"/>I shall be at <rs type="place" ref="#amp_place_id_7">Fridau</rs> over Easter
+                     <lb/>but am otherwise mostly in <rs type="place" ref="#amp_place_id_11">Vienna</rs>.
                   </p>
                   <p>
-                     <space quantity="5" unit="char"/>Was very dashed at missing you when I<lb/> 
-                     got back <rs type="place" ref="#amp_place_id_2">here</rs> at the beginning of September<lb/> 
-                     and found you'd gone.
+                     <space quantity="5" unit="char"/>Was very dashed at missing you when I 
+                     <lb/>got back <rs type="place" ref="#amp_place_id_2">here</rs> at the beginning of September
+                     <lb/>and found you'd gone.
                   </p>
                   <closer hand="#handwritten">
                      <salute>

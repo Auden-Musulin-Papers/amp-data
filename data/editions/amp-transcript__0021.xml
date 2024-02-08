@@ -136,23 +136,23 @@ for any purpose, even commercially.</p>
             <div type="envelope">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0113/" type="envelope" ed="1r"/>
                <ab hand="#handwritten" xml:lang="de">
-                  <rs type="person" ref="#amp_person_2">Die Baroni<unclear>n</unclear><lb/>
-                  Stella von Mussolin</rs><lb/>
+                  <rs type="person" ref="#amp_person_2">Die Baroni<unclear>n</unclear>
+                     <lb/>Stella von Mussolin</rs>
                   <address>
-                     <rs type="place" ref="#amp_place_id_11"><hi rend="underline">Wien III</hi><lb/>
-                     Neulingasse 26 <unclear>,</unclear></rs>
+                     <lb/><rs type="place" ref="#amp_place_id_11"><hi rend="underline">Wien III</hi>
+                     <lb/>Neulingasse 26 <unclear>,</unclear></rs>
                   </address>
                </ab>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0114/" type="envelope" ed="1v"/>
                <ab>
                   <seg hand="#handwritten">
-                     <rs type="person" ref="#amp_person_1">W.H.Auden</rs><lb/>
+                     <rs type="person" ref="#amp_person_1">W.H.Auden</rs>
                   </seg>
                   <seg hand="#printed">
                      <address>
-                        <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (<foreign xml:lang="de">WESTBAHN</foreign>)<lb/>
-                        HINTERHOLZ 6<lb/>
-                        <foreign xml:lang="de">N.-Ö.</foreign>, AUSTRIA</rs>
+                        <lb/><rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (<foreign xml:lang="de">WESTBAHN</foreign>)
+                           <lb/>HINTERHOLZ 6
+                           <lb/><foreign xml:lang="de">N.-Ö.</foreign>, AUSTRIA</rs>
                      </address>
                   </seg>   
                </ab>
@@ -165,9 +165,9 @@ for any purpose, even commercially.</p>
                         <placeName>
                            <seg hand="#printed">
                               <address>
-                                 <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (<foreign xml:lang="de">WESTBAHN</foreign>)<lb/>
-                                 HINTERHOLZ 6<lb/>
-                                 <foreign xml:lang="de">N.-Ö.</foreign>, AUSTRIA</rs>
+                                 <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (<foreign xml:lang="de">WESTBAHN</foreign>)
+                                 <lb/>HINTERHOLZ 6
+                                 <lb/><foreign xml:lang="de">N.-Ö.</foreign>, AUSTRIA</rs>
                               </address>
                            </seg>
                         </placeName>
@@ -176,13 +176,13 @@ for any purpose, even commercially.</p>
                      <salute><space quantity="17" unit="char"/>Dear <rs type="person" ref="#amp_person_2">Stella</rs>:</salute>
                   </opener>
                   <p>
-                     <space quantity="9" unit="char"/>Many thanks for <rs type="event" ref="#amp_event_id_65">your letter</rs>. Ac<del>r</del>tually,<rs type="person" ref="#amp_person_1 #amp_person_4">we</rs><lb/>
-                     <space quantity="4" unit="char"/>shall be <rs type="place" ref="#amp_place_id_2">here</rs> till the end of October.
+                     <space quantity="9" unit="char"/>Many thanks for <rs type="event" ref="#amp_event_id_65">your letter</rs>. Ac<del>r</del>tually,<rs type="person" ref="#amp_person_1 #amp_person_4">we</rs>
+                     <lb/><space quantity="4" unit="char"/>shall be <rs type="place" ref="#amp_place_id_2">here</rs> till the end of October.
                   </p>
                   <p>   
-                     <space quantity="6" unit="char"/>So far as I know,any week-day which suits you<lb/>
-                     <space quantity="4" unit="char"/>and <rs type="person" ref="#amp_person_59"><foreign xml:lang="de">Herr</foreign> Fritsch</rs> would be O.K.for us,so just<lb/>
-                     <space quantity="5" unit="char"/>drop us a p.c.when you fix the day.
+                     <space quantity="6" unit="char"/>So far as I know,any week-day which suits you
+                     <lb/><space quantity="4" unit="char"/>and <rs type="person" ref="#amp_person_59"><foreign xml:lang="de">Herr</foreign> Fritsch</rs> would be O.K.for us,so just
+                     <lb/><space quantity="5" unit="char"/>drop us a p.c.when you fix the day.
                   </p>
                   <closer>
                      <space quantity="11" unit="char"/><salute>longing to see you</salute>

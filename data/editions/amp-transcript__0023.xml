@@ -136,22 +136,22 @@ for any purpose, even commercially.</p>
             <div type="envelope">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0121/" type="envelope" ed="1r"/>
                <ab xml:lang="de">
-                  <rs type="person" ref="#amp_person_2">Die Baronin<lb/>
-                  Stella Mus<del><gap reason="deleted"/></del><unclear>s</unclear>ulin</rs><lb/>
+                  <rs type="person" ref="#amp_person_2">Die Baronin
+                  <lb/>Stella Mus<del><gap reason="deleted"/></del><unclear>s</unclear>ulin</rs>
                   <address> 
-                     <rs type="place" ref="#amp_place_id_7">Fridau<lb/>
-                     <unclear>O</unclear>bergrabendorf,<lb/>
-                     N. O <unclear>,</unclear> bei S. Pölten</rs>
+                     <lb/><rs type="place" ref="#amp_place_id_7">Fridau
+                     <lb/><unclear>O</unclear>bergrabendorf,
+                     <lb/>N. O <unclear>,</unclear> bei S. Pölten</rs>
                   </address>
                </ab>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0122/" type="envelope" ed="1v"/>
                <ab>
-                  <rs type="person" ref="#amp_person_1">W.H.Auden</rs><lb/>
+                  <rs type="person" ref="#amp_person_1">W.H.Auden</rs>
                <seg hand="#printed">
                   <address> 
-                     <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (<foreign xml:lang="de">WESTBAHN</foreign>)<lb/>
-                     HINTERHOLZ 6<lb/>
-                     <foreign xml:lang="de">N.-Ö.</foreign>, AUSTRIA</rs>
+                     <lb/><rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (<foreign xml:lang="de">WESTBAHN</foreign>)
+                     <lb/>HINTERHOLZ 6
+                     <lb/><foreign xml:lang="de">N.-Ö.</foreign>, AUSTRIA</rs>
                   </address>
                </seg>    
             </ab>
@@ -165,9 +165,9 @@ for any purpose, even commercially.</p>
                         <placeName>
                            <seg hand="#printed">
                               <address>
-                                 <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (<foreign xml:lang="de">WESTBAHN</foreign>)<lb/>
-                                 HINTERHOLZ 6<lb/>
-                                 <foreign xml:lang="de">N.-Ö.</foreign>, AUSTRIA</rs>
+                                 <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (<foreign xml:lang="de">WESTBAHN</foreign>)
+                                 <lb/>HINTERHOLZ 6
+                                 <lb/><foreign xml:lang="de">N.-Ö.</foreign>, AUSTRIA</rs>
                               </address>
                            </seg>
                         </placeName>
@@ -175,13 +175,13 @@ for any purpose, even commercially.</p>
                      <salute>Dear <rs type="person" ref="#amp_person_2">Stella</rs>:</salute>
                   </opener>
                   <p>
-                     How are you and where are<lb/>
-                     you?
+                     How are you and where are
+                     <lb/>you?
                   </p>
                   <p>
-                     If in <rs type="place" ref="#amp_place_id_7">Fridau</rs>,<rs type="person" ref="#amp_person_1 #amp_person_4">we</rs> would love to<lb/>
-                     see you. Am <rs type="event" ref="#amp_event_id_16">expecting <rs type="person" ref="#amp_person_3">Christiane<lb/>
-                     Zimmer</rs></rs> <rs type="place" ref="#amp_place_id_2">here</rs> about <del><gap reason="deleted"/></del> August 5th.
+                     If in <rs type="place" ref="#amp_place_id_7">Fridau</rs>,<rs type="person" ref="#amp_person_1 #amp_person_4">we</rs> would love to
+                     <lb/>see you. Am <rs type="event" ref="#amp_event_id_16">expecting <rs type="person" ref="#amp_person_3">Christiane
+                     <lb/>Zimmer</rs></rs> <rs type="place" ref="#amp_place_id_2">here</rs> about <del><gap reason="deleted"/></del> August 5th.
                   </p>
                  <closer>
                     <signed><rs type="person" ref="#amp_person_1">Wystan</rs></signed>

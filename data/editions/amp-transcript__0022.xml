@@ -136,21 +136,21 @@ for any purpose, even commercially.</p>
             <div type="envelope">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0117/" type="envelope" ed="1r"/>
                <ab xml:lang="de">
-                  <rs type="person" ref="#amp_person_2">Die Baronin<lb/>
-                  Stella Mu<unclear><del>s</del></unclear>silin</rs><lb/>
+                  <rs type="person" ref="#amp_person_2">Die Baronin
+                     <lb/>Stella Mu<unclear><del>s</del></unclear>silin</rs>
                   <address>
-                     <rs type="place" ref="#amp_place_id_11"><hi rend="underline">Wien III</hi><lb/>
-                     Neulingasse 26.</rs>
+                     <lb/><rs type="place" ref="#amp_place_id_11"><hi rend="underline">Wien III</hi>
+                     <lb/>Neulingasse 26.</rs>
                   </address>    
                </ab>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0118/" type="envelope" ed="1v"/>
                <ab>
-                  <rs type="person" ref="#amp_person_1">W.H.Auden</rs><lb/>
+                  <rs type="person" ref="#amp_person_1">W.H.Auden</rs>
                   <seg hand="#printed">
                      <address>
-                        <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (<foreign xml:lang="de">WESTBAHN</foreign>)<lb/>
-                        HINTERHOLZ 6<lb/>
-                        <foreign xml:lang="de">N.-Ö.</foreign>, AUSTRIA</rs>
+                        <lb/><rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (<foreign xml:lang="de">WESTBAHN</foreign>)
+                        <lb/>HINTERHOLZ 6
+                        <lb/><foreign xml:lang="de">N.-Ö.</foreign>, AUSTRIA</rs>
                      </address>
                   </seg>
                </ab>
@@ -164,9 +164,9 @@ for any purpose, even commercially.</p>
                         <placeName>
                            <seg hand="#printed">
                               <address>
-                                 <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (<foreign xml:lang="de">WESTBAHN</foreign>)<lb/>
-                                 HINTERHOLZ 6<lb/>
-                                 <foreign xml:lang="de">N.-Ö.</foreign>, AUSTRIA</rs>
+                                 <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (<foreign xml:lang="de">WESTBAHN</foreign>)
+                                    <lb/>HINTERHOLZ 6
+                                    <lb/><foreign xml:lang="de">N.-Ö.</foreign>, AUSTRIA</rs>
                               </address>
                            </seg>
                         </placeName>
@@ -174,14 +174,14 @@ for any purpose, even commercially.</p>
                      <salute><del>De</del>Dear <rs type="person" ref="#amp_person_2">Stella</rs>:</salute>
                   </opener>
                   <p>
-                     Del<unclear>i</unclear>ghted to hear yo<del><gap reason="deleted"/></del><unclear>u</unclear> are<lb/>
-                     <rs type="place" ref="#amp_place_id_10">back</rs> and would love to see you<lb/>
-                     anytime<unclear>:</unclear> Are you living in <rs type="place" ref="#amp_place_id_1"><foreign xml:lang="de">Wien</foreign></rs> or<lb/>
-                     in <rs type="place" ref="#amp_place_id_8">Obergrabendorf</rs>.?
+                     Del<unclear>i</unclear>ghted to hear yo<del><gap reason="deleted"/></del><unclear>u</unclear> are
+                     <lb/><rs type="place" ref="#amp_place_id_10">back</rs> and would love to see you
+                     <lb/>anytime<unclear>:</unclear> Are you living in <rs type="place" ref="#amp_place_id_1"><foreign xml:lang="de">Wien</foreign></rs> or
+                     <lb/>in <rs type="place" ref="#amp_place_id_8">Obergrabendorf</rs>.?
                   </p>
                   <p>
-                     I read <rs type="lit_work" ref="#lit_work_id_87">your piece in <rs type="org" ref="#amp_organization_39"><hi rend="underline">Die Presse</hi></rs></rs><lb/>
-                     last Sunday <unclear>wi</unclear>th great int<unclear>e</unclear>re<unclear>s</unclear>t<unclear>,</unclear>
+                     I read <rs type="lit_work" ref="#lit_work_id_87">your piece in <rs type="org" ref="#amp_organization_39"><hi rend="underline">Die Presse</hi></rs></rs>
+                     <lb/>last Sunday <unclear>wi</unclear>th great int<unclear>e</unclear>re<unclear>s</unclear>t<unclear>,</unclear>
                   </p>   
                   <closer>
                      <salute>yours ever</salute>
