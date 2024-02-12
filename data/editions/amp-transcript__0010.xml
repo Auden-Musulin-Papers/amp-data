@@ -136,24 +136,24 @@ for any purpose, even commercially.</p>
             <div type="envelope">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0047/" type="envelope" ed="1r"/>
                <ab>
-                  <rs type="person" ref="#amp_person_1">WH Auden</rs><lb/>
+                  <rs type="person" ref="#amp_person_1">WH Auden</rs>
                   <address>
-                     <rs type="place" ref="#amp_place_id_29">77 St Mark's Place<lb/>
-                     New York City<lb/>
-                     N.Y. 10003<lb/>
-                     U.S.A<unclear>.</unclear></rs>
+                     <lb/><rs type="place" ref="#amp_place_id_29">77 St Mark's Place
+                     <lb/>New York City
+                     <lb/>N.Y. 10003
+                     <lb/>U.S.A<unclear>.</unclear></rs>
                   </address>
                </ab>
                <ab>
                   A<hi rend="underline">ir-Mail</hi>
                </ab>
                <ab xml:lang="de">
-                  <rs type="person" ref="#amp_person_2">Die Baronin<lb/>
-                  Stella Musulin</rs><lb/>
+                  <rs type="person" ref="#amp_person_2">Die Baronin
+                  <lb/>Stella Musulin</rs>
                   <address>
-                     <rs type="place" ref="#amp_place_id_11">Wien A-1030<lb/>
-                     Neulinggasse 26/14<lb/>
-                     <foreign xml:lang="en">Austria</foreign></rs>
+                     <lb/><rs type="place" ref="#amp_place_id_11">Wien A-1030
+                     <lb/>Neulinggasse 26/14
+                     <lb/><foreign xml:lang="en">Austria</foreign></rs>
                   </address>
                </ab>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0048/" type="envelope" ed="1v"/>
@@ -165,9 +165,9 @@ for any purpose, even commercially.</p>
                      <dateline>
                         <placeName>
                            <address>
-                              <rs type="place" ref="#amp_place_id_29">77 St Mark's Place<lb/>
-                              N.Y.C.<lb/>
-                              N.Y. 1003</rs>
+                              <rs type="place" ref="#amp_place_id_29">77 St Mark's Place
+                              <lb/>N.Y.C.
+                              <lb/>N.Y. 1003</rs>
                            </address>
                         </placeName>
                         <date rend="#block">
@@ -179,9 +179,9 @@ for any purpose, even commercially.</p>
                      </salute>
                   </opener>
                   <p>
-                     Many thanks for <rs type="event" ref="#amp_event_id_91">your letter</rs>. <rs type="note" ana="acdh:amp-transcript__0009.xml#ana_012">Of course,<lb/>
-                     selfishly, I'm rather reli<unclear><del>v</del></unclear>eved. How horrid<lb/>
-                     one is !</rs>
+                     Many thanks for <rs type="event" ref="#amp_event_id_91">your letter</rs>. <rs type="note" ana="acdh:amp-transcript__0009.xml#ana_012">Of course,
+                     <lb/>selfishly, I'm rather reli<unclear><del>v</del></unclear>eved. How horrid
+                     <lb/>one is !</rs>
                   </p>
                   <p>
                      The <rs type="place" ref="#amp_place_id_15">U.S.</rs> is grim.

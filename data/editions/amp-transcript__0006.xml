@@ -146,37 +146,37 @@ for any purpose, even commercially.</p>
             <div type="envelope">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0027/" type="envelope" ed="1r"/>
                <ab>
-                  <rs type="person" ref="#amp_person_1">W<unclear>.</unclear>H<unclear>:</unclear>Auden</rs><lb/>
+                  <rs type="person" ref="#amp_person_1">W<unclear>.</unclear>H<unclear>:</unclear>Auden</rs>
                   <address>
-                     <rs type="place" ref="#amp_place_id_29">77 St Mark's Place<lb/>
-                     New York City<lb/>
-                     New York 10003<lb/>
-                     U.S.A</rs>
+                     <lb/><rs type="place" ref="#amp_place_id_29">77 St Mark's Place
+                     <lb/>New York City
+                     <lb/>New York 10003
+                     <lb/>U.S.A</rs>
                   </address>
                </ab>
                <ab>
                   Air-Mail
                </ab>
                <ab>
-                  <rs type="person" ref="#amp_person_2"><foreign xml:lang="de">Die Baronin</foreign><lb/>
-                  Stella M<del><gap reason="deleted"/></del>usulin</rs><lb/>
+                  <rs type="person" ref="#amp_person_2"><foreign xml:lang="de">Die Baronin</foreign>
+                  <lb/>Stella M<del><gap reason="deleted"/></del>usulin</rs>
                   <address>
-                     <rs type="place" ref="#amp_place_id_11">Vienna III<lb/>
-                     26 Neulingasse<lb/>
-                     Austria</rs>
+                     <lb/><rs type="place" ref="#amp_place_id_11">Vienna III
+                     <lb/>26 Neulingasse
+                     <lb/>Austria</rs>
                   </address>
                </ab>
                <ab>
-                  Re arrival <rs type="event" ref="#amp_event_id_10">interview<lb/>
-                  <rs type="person" ref="#amp_person_32 #amp_person_176">Strobl</rs></rs>.
+                  Re arrival <rs type="event" ref="#amp_event_id_10">interview
+                  <lb/><rs type="person" ref="#amp_person_32 #amp_person_176">Strobl</rs></rs>.
                </ab>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0028/" type="envelope" ed="1v"/>
                <ab>
                   <seg>52 6320<lb/></seg>
                   <seg>
-                     <rs type="place" ref="#amp_place_id_320" ana="#ana_011">Wa<unclear>n</unclear>dl</rs><unclear>;</unclear><lb/>
-                     <rs type="person" ref="#amp_person_177">Elizabeth</rs> <unclear>.</unclear><lb/>
-                     <rs type="place" ref="#amp_place_id_10">Austria</rs> <unclear>.</unclear>
+                     <rs type="place" ref="#amp_place_id_320" ana="#ana_011">Wa<unclear>n</unclear>dl</rs><unclear>;</unclear>
+                     <lb/><rs type="person" ref="#amp_person_177">Elizabeth</rs> <unclear>.</unclear>
+                     <lb/><rs type="place" ref="#amp_place_id_10">Austria</rs> <unclear>.</unclear>
                   </seg>
                </ab>
             </div>
@@ -188,8 +188,8 @@ for any purpose, even commercially.</p>
                         <date rend="#block">Feb 6th<unclear>,</unclear></date>
                         <placeName>
                            <address>
-                              <rs type="place" ref="#amp_place_id_29">77 St Mark's Place<lb/>
-                              N.Y.C 3.</rs>
+                              <rs type="place" ref="#amp_place_id_29">77 St Mark's Place
+                              <lb/>N.Y.C 3.</rs>
                            </address>
                         </placeName>
                      </dateline>
@@ -198,18 +198,18 @@ for any purpose, even commercially.</p>
                      </salute>
                   </opener>
                <p>
-                  I <rs type="event" ref="#amp_event_id_82">shall be arriving in <rs type="place" ref="#amp_place_id_1">Vienna</rs></rs> next<lb/>
-                  Monday morning (12th) and staying till<lb/>
-                  the 16th in order to <rs type="event" ref="#amp_event_id_10">interview a<lb/>
-                  <rs type="person" ref="#amp_person_32 #amp_person_176">prospective couple</rs></rs> to take the <rs type="person" ref="#amp_person_16 #amp_person_17">Eiermanns</rs> place<unclear>.</unclear>
+                  I <rs type="event" ref="#amp_event_id_82">shall be arriving in <rs type="place" ref="#amp_place_id_1">Vienna</rs></rs> next
+                  <lb/>Monday morning (12th) and staying till
+                  <lb/>the 16th in order to <rs type="event" ref="#amp_event_id_10">interview a
+                  <lb/><rs type="person" ref="#amp_person_32 #amp_person_176">prospective couple</rs></rs> to take the <rs type="person" ref="#amp_person_16 #amp_person_17">Eiermanns</rs> place<unclear>.</unclear>
                </p>
                <p>   
-                  Expect to be staying at the <rs type="place" ref="#amp_place_id_42">Hotel<lb/>
-                  <hi rend="underline">Königin von Hungarn</hi></rs><hi rend="underline"> <unclear>.</unclear></hi>
+                  Expect to be staying at the <rs type="place" ref="#amp_place_id_42">Hotel
+                  <lb/><hi rend="underline">Königin von Hungarn</hi></rs><hi rend="underline"> <unclear>.</unclear></hi>
                </p>
                <p>
-                  Will phone you. Do hope you are<lb/>
-                  around<unclear>·</unclear><lb/>
+                  Will phone you. Do hope you are
+                  <lb/>around<unclear>·</unclear><lb/>
                </p>
                <closer>
                   <salute>

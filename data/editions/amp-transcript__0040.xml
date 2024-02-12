@@ -155,11 +155,11 @@ for any purpose, even commercially.</p>
                   Express<unclear>,</unclear>
                </ab>
                <ab xml:lang="de">
-                  <rs type="person" ref="#amp_person_2">Die Baronin<lb/>
-                  Stella Musulin</rs><lb/>
+                  <rs type="person" ref="#amp_person_2">Die Baronin
+                  <lb/>Stella Musulin</rs>
                   <address>
-                     <rs type="place" ref="#amp_place_id_11">Wien III<lb/>
-                     Neulingg<unclear>as</unclear>se 26/14</rs>
+                     <lb/><rs type="place" ref="#amp_place_id_11">Wien III
+                     <lb/>Neulingg<unclear>as</unclear>se 26/14</rs>
                   </address>
                </ab>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0068/" type="envelope" ed="1v"/>
@@ -168,10 +168,10 @@ for any purpose, even commercially.</p>
                   <placeName>
                      <seg hand="#printed">
                         <address xml:lang="de">
-                           <rs type="place" ref="#amp_place_id_2">3062 KIRCHSTETTEN<lb/>
-                           BEZ. ST. PÖLTEN<lb/>
-                           HINTERHOLZ 6<lb/>
-                           N.-Ö., <foreign xml:lang="en">AUSTRIA</foreign></rs>
+                           <rs type="place" ref="#amp_place_id_2">3062 KIRCHSTETTEN
+                           <lb/>BEZ. ST. PÖLTEN
+                           <lb/>HINTERHOLZ 6
+                           <lb/>N.-Ö., <foreign xml:lang="en">AUSTRIA</foreign></rs>
                         </address>
                      </seg>
                   </placeName>
@@ -186,8 +186,8 @@ for any purpose, even commercially.</p>
                      </salute>
                   </opener>
                   <p>
-                     <rs type="event" ref="#amp_event_id_97">Saturday w<unclear>i</unclear>ll be fine</rs>. Shall<lb/>
-                     look forward to it<unclear>,</unclear>
+                     <rs type="event" ref="#amp_event_id_97">Saturday w<unclear>i</unclear>ll be fine</rs>. Shall
+                     <lb/>look forward to it<unclear>,</unclear>
                   </p>
                   <closer>
                      <salute>
@@ -276,7 +276,7 @@ for any purpose, even commercially.</p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0462/" type="cv_sheet" ed="2v-cv"/>
                <div type="poem" hand="#typed">
                   <head>
-                     <space extent="undefined quantity of characters plus minimum" min="10" unit="char"/><rs type="lit_work" ref="#lit_work_id_166"><hi rend="underline"><unclear>E</unclear><gap quantity="7" unit="char" reason="illegible"/>TO<gap reason="illegible"/>GODS<gap quantity="2" unit="char" reason="illegible"/></hi></rs><lb/>
+                     <space extent="undefined quantity of characters plus minimum" min="10" unit="char"/><rs type="lit_work" ref="#lit_work_id_166"><hi rend="underline"><unclear>E</unclear><gap quantity="7" unit="char" reason="illegible"/>TO<gap reason="illegible"/>GODS<gap quantity="2" unit="char" reason="illegible"/></hi></rs><!-- no need of an additional <lb/> -->
                   </head>
                   <lg>
                      <lb/><space extent="undefined quantity of characters"/><l><hi rend="underline"><gap atLeast="12" atMost="13" unit="char" reason="illegible"/></hi><gap atMost="2" unit="char" reason="illegible"/>h<gap quantity="1" unit="char" reason="illegible"/>nk<gap reason="illegible"/><unclear>o</unclear>r<gap quantity="1" unit="char" reason="illegible"/>b<gap quantity="1" unit="char" reason="illegible"/>ozy g<unclear>od</unclear>f<gap quantity="1" unit="char" reason="illegible"/>thers"</l>

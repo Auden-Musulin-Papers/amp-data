@@ -153,19 +153,19 @@ for any purpose, even commercially.</p>
                   <hi rend="underline">Eil<unclear>·</unclear>Brief</hi>
                </ab>
                <ab>
-                  <rs type="person" ref="#amp_person_2">Die Ba<unclear>r</unclear>onin<lb/>
-                  Stella Musulin</rs><lb/>
+                  <rs type="person" ref="#amp_person_2">Die Ba<unclear>r</unclear>onin
+                  <lb/>Stella Musulin</rs>
                   <address>
-                     <rs type="place" ref="#amp_place_id_11"><hi rend="underline">1030</hi> Wien <del>IV</del><lb/>
-                     Neulingasse 26</rs>
+                     <lb/><rs type="place" ref="#amp_place_id_11"><hi rend="underline">1030</hi> Wien <del>IV</del>
+                     <lb/>Neulingasse 26</rs>
                   </address>
                </ab>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0036/" type="envelope" ed="1v"/>
                <ab hand="#printed">
                   <address>
-                     <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN, BEZ. ST. PÖLTEN<lb/>
-                     HINTERHOLZ 6<lb/>
-                     N.-Ö., <foreign xml:lang="en">AUSTRIA</foreign></rs>
+                     <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN, BEZ. ST. PÖLTEN
+                     <lb/>HINTERHOLZ 6
+                     <lb/>N.-Ö., <foreign xml:lang="en">AUSTRIA</foreign></rs>
                   </address>
                </ab>
                <ab>
@@ -180,9 +180,9 @@ for any purpose, even commercially.</p>
                         <placeName>
                            <seg hand="#printed" xml:lang="de">
                               <address>
-                                 <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN, BEZ. ST. PÖLTEN<lb/>
-                                 HINTERHOLZ 6<lb/>
-                                 N.-Ö., <foreign xml:lang="en">AUSTRIA</foreign></rs>
+                                 <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN, BEZ. ST. PÖLTEN
+                                 <lb/>HINTERHOLZ 6
+                                 <lb/>N.-Ö., <foreign xml:lang="en">AUSTRIA</foreign></rs>
                               </address>
                            </seg>   
                         </placeName>
@@ -191,17 +191,17 @@ for any purpose, even commercially.</p>
                      <salute>Dear <rs type="person" ref="#amp_person_2">Stella</rs>:</salute>
                   </opener>
                <p>
-                  I got <rs type="event" ref="#amp_event_id_79">your telegram yesterday</rs> just before<lb/>
-                  lu<unclear>n</unclear>ch. <rs type="event" ref="#amp_event_id_80">Tried twice in the afternoon</rs> and <rs type="event" ref="#amp_event_id_81">once<lb/>
-                  this morning</rs> to reach you , but <foreign xml:lang="de">umsonst</foreign>.
+                  I got <rs type="event" ref="#amp_event_id_79">your telegram yesterday</rs> just before
+                  <lb/>lu<unclear>n</unclear>ch. <rs type="event" ref="#amp_event_id_80">Tried twice in the afternoon</rs> and <rs type="event" ref="#amp_event_id_81">once
+                  <lb/>this morning</rs> to reach you , but <foreign xml:lang="de">umsonst</foreign>.
                </p>
                <p>   
-                  <rs type="event" ref="#amp_event_id_83">Am off to <rs type="place" ref="#amp_place_id_239">England</rs> to-morrow</rs>, s<unclear>o</unclear> don't see how<lb/>
-                  anything can now be arranged<unclear>.</unclear>
+                  <rs type="event" ref="#amp_event_id_83">Am off to <rs type="place" ref="#amp_place_id_239">England</rs> to-morrow</rs>, s<unclear>o</unclear> don't see how
+                  <lb/>anything can now be arranged<unclear>.</unclear>
                </p>
                <p>   
-                  If you think these can, please write me<lb/>
-                  ℅ <rs type="org" ref="#amp_organization_5">Faber and Faber</rs>, <rs type="place" ref="#amp_place_id_44">24 Russell Square,W.C</rs><unclear>.</unclear> I
+                  If you think these can, please write me
+                  <lb/>℅ <rs type="org" ref="#amp_organization_5">Faber and Faber</rs>, <rs type="place" ref="#amp_place_id_44">24 Russell Square,W.C</rs><unclear>.</unclear> I
                </p>
                <p>
                   So sorry

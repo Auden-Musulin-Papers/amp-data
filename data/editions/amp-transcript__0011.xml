@@ -145,12 +145,12 @@ for any purpose, even commercially.</p>
             <div type="envelope">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0051/" type="envelope" ed="1r"/>
                <ab>
-                  <rs type="person" ref="#amp_person_1">WH.Auden</rs><lb/>
+                  <rs type="person" ref="#amp_person_1">WH.Auden</rs>
                   <address>
-                     <rs type="place" ref="#amp_place_id_29">77 St Mark's Place<lb/>
-                     New York City<lb/>
-                     New York 10003<lb/>
-                     U.S.A<unclear>.</unclear></rs>
+                     <lb/><rs type="place" ref="#amp_place_id_29">77 St Mark's Place
+                     <lb/>New York City
+                     <lb/>New York 10003
+                     <lb/>U.S.A<unclear>.</unclear></rs>
                   </address>
                </ab>
                <ab>
@@ -160,12 +160,12 @@ for any purpose, even commercially.</p>
                   <rs type="event" ref="#amp_event_id_2">Death <rs type="person" ref="#amp_person_23">Jean Boras</rs></rs>
                </ab>
                <ab xml:lang="de">
-                  <rs type="person" ref="#amp_person_2">Die Baronin<lb/>
-                  Stella Musulin</rs><lb/>
+                  <rs type="person" ref="#amp_person_2">Die Baronin
+                  <lb/>Stella Musulin</rs>
                   <address>
-                     <rs type="place" ref="#amp_place_id_11">Wien <del>IV .</del><lb/>
-                     Neulin<unclear>g</unclear>gasse 26/14<lb/>
-                     <foreign xml:lang="en">Austria</foreign></rs>
+                     <lb/><rs type="place" ref="#amp_place_id_11">Wien <del>IV .</del>
+                     <lb/>Neulin<unclear>g</unclear>gasse 26/14
+                     <lb/><foreign xml:lang="en">Austria</foreign></rs>
                   </address>
                </ab>
                <ab>
@@ -185,9 +185,9 @@ for any purpose, even commercially.</p>
                         </date>
                         <placeName>
                            <address>
-                              <rs type="place" ref="#amp_place_id_29">7 St Mark's Place<lb/>
-                              New York City<lb/>
-                              N.Y. 10003<lb/>
+                              <rs type="place" ref="#amp_place_id_29">7 St Mark's Place
+                              <lb/>New York City
+                              <lb/>N.Y. 10003<lb/>
                               <del><gap reason="deleted"/></del></rs>
                            </address>
                         </placeName>
@@ -197,22 +197,22 @@ for any purpose, even commercially.</p>
                      </salute>
                   </opener>
                   <p>
-                     <rs type="event" ref="#amp_event_id_92"><rs type="person" ref="#amp_person_4">Chester</rs> has just telephoned me</rs> from <rs type="place" ref="#amp_place_id_13">Athens</rs> to say<lb/>
-                     that <unclear>his</unclear> Greek fr<unclear>i</unclear>end <rs type="person" ref="#amp_person_23">Jean Boras</rs>,whom I<lb/>
-                     think you have met, while driving my car<lb/>
-                     between <rs type="place" ref="#amp_place_id_1">Vienna</rs> and <rs type="place" ref="#amp_place_id_5">Kirchstetten</rs> <rs type="event" ref="#amp_event_id_2">coll<unclear>e</unclear>ded with<lb/>
-                     a <foreign xml:lang="de">Lastwagen</foreign> and was killed</rs>.
+                     <rs type="event" ref="#amp_event_id_92"><rs type="person" ref="#amp_person_4">Chester</rs> has just telephoned me</rs> from <rs type="place" ref="#amp_place_id_13">Athens</rs> to say
+                     <lb/>that <unclear>his</unclear> Greek fr<unclear>i</unclear>end <rs type="person" ref="#amp_person_23">Jean Boras</rs>,whom I
+                     <lb/>think you have met, while driving my car
+                     <lb/>between <rs type="place" ref="#amp_place_id_1">Vienna</rs> and <rs type="place" ref="#amp_place_id_5">Kirchstetten</rs> <rs type="event" ref="#amp_event_id_2">coll<unclear>e</unclear>ded with
+                     <lb/>a <foreign xml:lang="de">Lastwagen</foreign> and was killed</rs>.
                   </p>
                   <p>
-                     <rs type="person" ref="#amp_person_4">Chester</rs> is going to <rs type="place" ref="#amp_place_id_1">Vienna</rs>,but he was too<lb/>
-                     upset for <del><gap reason="deleted"/></del><unclear>m</unclear>e to find out where he would<lb/>
-                     stay. I presume in <rs type="place" ref="#amp_place_id_5">Kirchstetten</rs>.
+                     <rs type="person" ref="#amp_person_4">Chester</rs> is going to <rs type="place" ref="#amp_place_id_1">Vienna</rs>,but he was too
+                     <lb/>upset for <del><gap reason="deleted"/></del><unclear>m</unclear>e to find out where he would
+                     <lb/>stay. I presume in <rs type="place" ref="#amp_place_id_5">Kirchstetten</rs>.
                   </p>
                   <p>
-                     If you can get in touch him and help him<lb/>
-                     in any way (there are purely practical matters to<lb/>
-                     be cons<unclear>i</unclear>de<unclear>re</unclear>d,like the car<unclear>-</unclear>papers and insurance policy)<lb/>
-                     I should be most grateful<unclear>,</unclear>
+                     If you can get in touch him and help him
+                     <lb/>in any way (there are purely practical matters to
+                     <lb/>be cons<unclear>i</unclear>de<unclear>re</unclear>d,like the car<unclear>-</unclear>papers and insurance policy)
+                     <lb/>I should be most grateful<unclear>,</unclear>
                   </p>
                   <closer>
                      <salute>

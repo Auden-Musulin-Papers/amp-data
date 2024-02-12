@@ -148,25 +148,25 @@ for any purpose, even commercially.</p>
                   <hi rend="underline">Air-Mail</hi>
                </ab>
                <ab>
-                  <unclear>L</unclear>eft US driving<lb/>
-                  licence <rs type="place" ref="#amp_place_id_2">behind</rs> <unclear>·</unclear>
+                  <unclear>L</unclear>eft US driving
+                  <lb/>licence <rs type="place" ref="#amp_place_id_2">behind</rs> <unclear>·</unclear>
                </ab>
                <ab xml:lang="de">
-                  <rs type="person" ref="#amp_person_2">Die Baroninin<lb/>
-                  Stella Musulin</rs><lb/>
+                  <rs type="person" ref="#amp_person_2">Die Baroninin
+                  <lb/>Stella Musulin</rs>
                   <address>
-                     <rs type="place" ref="#amp_place_id_11"><del>Vi</del> Wien I<del>V</del>II<lb/>
-                     Neulinggasse 26<lb/>
-                     <foreign xml:lang="en">Au<hi rend="underline">str</hi>ia</foreign></rs>
+                     <lb/><rs type="place" ref="#amp_place_id_11"><del>Vi</del> Wien I<del>V</del>II
+                     <lb/>Neulinggasse 26
+                     <lb/><foreign xml:lang="en">Au<hi rend="underline">str</hi>ia</foreign></rs>
                   </address>
                </ab>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0040/" type="envelope" ed="1v"/>
                <ab>
-                  <rs type="person" ref="#amp_person_1">WH<unclear>_</unclear>Auden</rs><lb/>
-                  ℅ <rs type="person" ref="#amp_person_19">Heyworth</rs><lb/>
+                  <rs type="person" ref="#amp_person_1">WH<unclear>_</unclear>Auden</rs>
+                  <lb/>℅ <rs type="person" ref="#amp_person_19">Heyworth</rs>
                   <address>
-                     <rs type="place" ref="#amp_place_id_45">32 Bryanston Sq<unclear>u</unclear>are<lb/>
-                     London. <del><unclear>N.,</unclear></del> W.I<lb/>
+                     <lb/><rs type="place" ref="#amp_place_id_45">32 Bryanston Sq<unclear>u</unclear>are<lb/>
+                     <lb/>London. <del><unclear>N.,</unclear></del> W.I
                      England</rs>
                   </address>
                </ab>
@@ -178,8 +178,8 @@ for any purpose, even commercially.</p>
                      <dateline>
                         <placeName>
                            <seg hand="#printed">
-                              <rs type="org" ref="#amp_organization_6">CHRIST CHURCH,<lb/>
-                              OXFORD</rs>.
+                              <rs type="org" ref="#amp_organization_6">CHRIST CHURCH,
+                              <lb/>OXFORD</rs>.
                            </seg>
                         </placeName>
                         <date rend="#block">Oct 12 th</date>
@@ -187,23 +187,23 @@ for any purpose, even commercially.</p>
                      <salute>Dear <rs type="person" ref="#amp_person_2">Stella</rs><unclear>.</unclear></salute>
                   </opener>
                <p>
-                  Like an idiot<unclear>,</unclear> I<unclear>v</unclear>e<del><gap reason="deleted"/></del> gone and<lb/>
-                  left my American Dr<del><gap reason="deleted"/></del>iving Licence<lb/>
-                  <rs type="place" ref="#amp_place_id_2">behind</rs>.
+                  Like an idiot<unclear>,</unclear> I<unclear>v</unclear>e<del><gap reason="deleted"/></del> gone and
+                  <lb/>left my American Dr<del><gap reason="deleted"/></del>iving Licence
+                  <lb/><rs type="place" ref="#amp_place_id_2">behind</rs>.
                </p>
                <p>   
-                  It sh<unclear>ou</unclear>ld be in an envelope in<lb/>
-                  the drawer of my bed-table upstairs.
+                  It sh<unclear>ou</unclear>ld be in an envelope in
+                  <lb/>the drawer of my bed-table upstairs.
                </p>
                <p>   
                   Could you be an angel and look for<lb/>
-                  it next time you ar<unclear>e</unclear> going to <rs type="place" ref="#amp_place_id_7">Fridau</rs><lb/>
-                  and air-mail to me
+                  it next time you ar<unclear>e</unclear> going to <rs type="place" ref="#amp_place_id_7">Fridau</rs>
+                  <lb/>and air-mail to me
                </p>
                <p>   
-                  ℅ <rs type="person" ref="#amp_person_19">Mr Peter Heyworth</rs><lb/>
-                  <rs type="place" ref="#amp_place_id_45">32 Bryanston Square<lb/>
-                  London . W .I .</rs>
+                  ℅ <rs type="person" ref="#amp_person_19">Mr Peter Heyworth</rs>
+                  <lb/><rs type="place" ref="#amp_place_id_45">32 Bryanston Square
+                  <lb/>London . W .I .</rs>
                </p>
                <p>   
                   So sorry to be such a nuisance.

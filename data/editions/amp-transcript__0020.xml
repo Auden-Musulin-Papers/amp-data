@@ -130,22 +130,22 @@ for any purpose, even commercially.</p>
                   L<hi rend="underline">ast letter</hi> .
                </ab>
                <ab xml:lang="de">
-                  <rs type="person" ref="#amp_person_2">Die B<unclear>a</unclear>ronin<lb/>
-                  Stella <unclear>M</unclear>usulin</rs><lb/>
+                  <rs type="person" ref="#amp_person_2">Die B<unclear>a</unclear>ronin
+                  <lb/>Stella <unclear>M</unclear>usulin</rs>
                   <address>
-                     <rs type="place" ref="#amp_place_id_11">A-1030 Wien<lb/>
-                     Neulingasse 26/14</rs>
+                    <lb/> <rs type="place" ref="#amp_place_id_11">A-1030 Wien
+                     <lb/>Neulingasse 26/14</rs>
                   </address>   
                </ab>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0096/" type="envelope"/>
                <ab>
-                  <rs type="person" ref="#amp_person_1"><unclear>W.H.</unclear>Auden</rs><lb/>
+                  <rs type="person" ref="#amp_person_1"><unclear>W.H.</unclear>Auden</rs>
                   <seg hand="#printed">
                      <address xml:lang="de">  
-                        <rs type="place" ref="#amp_place_id_2">3062 KIRCHSTETTEN<lb/>
-                        BEZ. ST. PÖLTEN<lb/>
-                        HINTERHOLZ 6<lb/>
-                        N.-Ö., <foreign xml:lang="en">AUSTRIA</foreign></rs>
+                        <lb/><rs type="place" ref="#amp_place_id_2">3062 KIRCHSTETTEN
+                        <lb/>BEZ. ST. PÖLTEN
+                        <lb/>HINTERHOLZ 6
+                        <lb/>N.-Ö., <foreign xml:lang="en">AUSTRIA</foreign></rs>
                      </address>    
                   </seg>
                </ab>
@@ -158,10 +158,10 @@ for any purpose, even commercially.</p>
                         <placeName>
                            <seg hand="#printed">
                               <address xml:lang="de">
-                                 <rs type="place" ref="#amp_place_id_2">3062 KIRCHSTETTEN<lb/>
-                                 BEZ. ST. PÖLTEN<lb/>
-                                 HINTERHOLZ 6<lb/>
-                                 N.-Ö., <foreign xml:lang="en">AUSTRIA</foreign></rs>
+                                 <rs type="place" ref="#amp_place_id_2">3062 KIRCHSTETTEN
+                                 <lb/>BEZ. ST. PÖLTEN
+                                 <lb/>HINTERHOLZ 6
+                                 <lb/>N.-Ö., <foreign xml:lang="en">AUSTRIA</foreign></rs>
                               </address>
                            </seg>
                         </placeName>
@@ -170,16 +170,16 @@ for any purpose, even commercially.</p>
                      <salute>Dear <rs type="person" ref="#amp_person_2">Stella</rs>:</salute>
                   </opener>
                   <p>
-                     I dont yet <unclear>k</unclear>now a<unclear>t</unclear> w<unclear>h</unclear>at time<lb/>
-                     the <rs type="event" ref="#amp_event_id_3">re<unclear>a</unclear>ding</rs> is to be. If not until 8<unclear>·o</unclear>.p.<lb/>
-                     I shall eat first,beca<unclear>u</unclear>se I like to go<lb/>
-                     to bed early<unclear>_</unclear>
+                     I dont yet <unclear>k</unclear>now a<unclear>t</unclear> w<unclear>h</unclear>at time
+                     <lb/>the <rs type="event" ref="#amp_event_id_3">re<unclear>a</unclear>ding</rs> is to be. If not until 8<unclear>·o</unclear>.p.
+                     <lb/>I shall eat first,beca<unclear>u</unclear>se I like to go
+                     <lb/>to bed early<unclear>_</unclear>
                   </p>
                   <p>
-                     Many tha<unclear>n</unclear>ks for the invitation to stay<lb/>
-                     the nig<unclear>h</unclear>t <rs type="place" ref="#amp_place_id_11"><unclear>with</unclear> y<unclear>ou</unclear></rs>, but I have already<lb/>
-                     booked a roo<unclear>m</unclear> <unclear>a</unclear>t t<unclear>h</unclear>e <rs type="place" ref="#amp_place_id_225"><unclear>H</unclear>otel <del>Altburg<gap reason="deleted"/></del>hof<lb/>
-                     Altburgenhof</rs><unclear>,</unclear>
+                     Many tha<unclear>n</unclear>ks for the invitation to stay
+                     <lb/>the nig<unclear>h</unclear>t <rs type="place" ref="#amp_place_id_11"><unclear>with</unclear> y<unclear>ou</unclear></rs>, but I have already
+                     <lb/>booked a roo<unclear>m</unclear> <unclear>a</unclear>t t<unclear>h</unclear>e <rs type="place" ref="#amp_place_id_225"><unclear>H</unclear>otel <del>Altburg<gap reason="deleted"/></del>hof
+                     <lb/>Altburgenhof</rs><unclear>,</unclear>
                   </p>
                   <closer>
                      <salute>love</salute>

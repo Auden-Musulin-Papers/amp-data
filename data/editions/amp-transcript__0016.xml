@@ -131,23 +131,23 @@ for any purpose, even commercially.</p>
                   <hi rend="underline"><unclear>Ex</unclear>press<unclear>.</unclear></hi>
                </ab>
                <ab xml:lang="de">
-                  <rs type="person" ref="#amp_person_2">Die Baronin<lb/>
-                  Stella Musulin</rs><lb/>
+                  <rs type="person" ref="#amp_person_2">Die Baronin
+                  <lb/>Stella Musulin</rs>
                   <address>  
-                     <rs type="place" ref="#amp_place_id_7">Fridau<lb/>
-                     3200 Obergrafendorf<lb/>
-                     N.Ö</rs>
+                     <lb/><rs type="place" ref="#amp_place_id_7">Fridau
+                     <lb/>3200 Obergrafendorf
+                     <lb/>N.Ö</rs>
                   </address>    
                </ab>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0080/" type="envelope"/>
                <ab>
-                  <rs type="person" ref="#amp_person_1">W<unclear>.H.</unclear> Auden</rs><lb/>
+                  <rs type="person" ref="#amp_person_1">W<unclear>.H.</unclear> Auden</rs>
                   <seg hand="#printed"> 
                      <address xml:lang="de">  
-                        <rs type="place" ref="#amp_place_id_2">3062 KIRCHSTETTEN<lb/>
-                           BEZ. ST. PÖLTEN<lb/>
-                           HINTERHOLZ 6<lb/>
-                           N.-Ö., <foreign xml:lang="en">AUSTRIA</foreign></rs>
+                        <lb/><rs type="place" ref="#amp_place_id_2">3062 KIRCHSTETTEN
+                           <lb/>BEZ. ST. PÖLTEN
+                           <lb/>HINTERHOLZ 6
+                           <lb/>N.-Ö., <foreign xml:lang="en">AUSTRIA</foreign></rs>
                      </address>    
                   </seg> 
                </ab>               
@@ -161,10 +161,10 @@ for any purpose, even commercially.</p>
                      <placeName>
                         <seg hand="#printed">
                            <address xml:lang="de">
-                              <rs type="place" ref="#amp_place_id_2">3062 KIRCHSTETTEN<lb/>
-                              BEZ. ST. PÖLTEN<lb/>
-                              HINTERHOLZ 6<lb/>
-                              N.-Ö., <foreign xml:lang="en">AUSTRIA</foreign></rs>
+                              <rs type="place" ref="#amp_place_id_2">3062 KIRCHSTETTEN
+                              <lb/>BEZ. ST. PÖLTEN
+                              <lb/>HINTERHOLZ 6
+                              <lb/>N.-Ö., <foreign xml:lang="en">AUSTRIA</foreign></rs>
                            </address>
                         </seg>
                      </placeName>  
@@ -174,12 +174,12 @@ for any purpose, even commercially.</p>
                   </salute>
                </opener>
                <p>
-                  Del<unclear>i</unclear>ght<unclear>e</unclear>d to hear you are<lb/>
-                  <rs type="place" ref="#amp_place_id_10">back</rs>.
+                  Del<unclear>i</unclear>ght<unclear>e</unclear>d to hear you are
+                  <lb/><rs type="place" ref="#amp_place_id_10">back</rs>.
                </p>
                <p>
-                  <rs type="event" ref="#amp_event_id_99">Could you and <rs type="person" ref="#amp_person_225">your mother</rs><lb/>
-                  come to lunch <del><unclear>on</unclear></del> next Tuesday</rs> ?
+                  <rs type="event" ref="#amp_event_id_99">Could you and <rs type="person" ref="#amp_person_225">your mother</rs>
+                  <lb/>come to lunch <del><unclear>on</unclear></del> next Tuesday</rs> ?
                </p>
                <closer>
                   <salute>love</salute>

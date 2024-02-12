@@ -148,24 +148,24 @@ for any purpose, even commercially.</p>
                   <hi rend="underline">Air<unclear>∼</unclear>Mail</hi>
                </ab>
                <ab>
-                  <rs type="person" ref="#amp_person_1">W<unclear>.</unclear>H.Auden</rs><lb/>
+                  <rs type="person" ref="#amp_person_1">W<unclear>.</unclear>H.Auden</rs>
                   <address>
-                     <rs type="place" ref="#amp_place_id_29">77 St Mark's Place<lb/>
-                     New York City<lb/>
-                     New Yo<unclear>r</unclear>k 10003<lb/>
-                     U.S<unclear>,</unclear>A.</rs>
+                     <lb/><rs type="place" ref="#amp_place_id_29">77 St Mark's Place
+                     <lb/>New York City
+                     <lb/>New Yo<unclear>r</unclear>k 10003
+                     <lb/>U.S<unclear>,</unclear>A.</rs>
                   </address>
                </ab>
                <ab>
                   <rs type="person" ref="#amp_person_23">Boras</rs>
                </ab>
                <ab xml:lang="de">
-                  <rs type="person" ref="#amp_person_2">Die Baronin<lb/>
-                  Stella M<unclear>u</unclear>sulin</rs><lb/>
+                  <rs type="person" ref="#amp_person_2">Die Baronin
+                  <lb/>Stella M<unclear>u</unclear>sulin</rs>
                   <address>
-                     <rs type="place" ref="#amp_place_id_11">Wien <del>IV</del><lb/>
-                     Neulinggasse 2<unclear>6</unclear>/14<lb/>
-                     <foreign xml:lang="en">Austria</foreign><unclear>,</unclear></rs>
+                     <lb/><rs type="place" ref="#amp_place_id_11">Wien <del>IV</del>
+                     <lb/>Neulinggasse 2<unclear>6</unclear>/14
+                     <lb/><foreign xml:lang="en">Austria</foreign><unclear>,</unclear></rs>
                   </address>
                </ab>
                <ab>
@@ -182,10 +182,10 @@ for any purpose, even commercially.</p>
                      <dateline>
                         <placeName>
                            <address>
-                              <rs type="place" ref="#amp_place_id_29"><unclear>7</unclear>7 St Mark's Place<lb/>
-                              New York City<lb/>
-                              New Y<unclear>or</unclear>k 10003<lb/>
-                              U.S.A.</rs>
+                              <rs type="place" ref="#amp_place_id_29"><unclear>7</unclear>7 St Mark's Place
+                              <lb/>New York City
+                              <lb/>New Y<unclear>or</unclear>k 10003
+                              <lb/>U.S.A.</rs>
                            </address>
                         </placeName>
                         <date rend="#block">
@@ -197,34 +197,34 @@ for any purpose, even commercially.</p>
                      </salute>
                   </opener>
                   <p>
-                     Many thanks for <rs type="event" ref="#amp_event_id_93">your letter</rs>. I gather<lb/>
-                     that,in the end, <rs type="person" ref="#amp_person_4">Chester</rs> deci<unclear>de</unclear>d not t<unclear>o</unclear><lb/>
-                     go to <rs type="place" ref="#amp_place_id_1">Vienna</rs>.
+                     Many thanks for <rs type="event" ref="#amp_event_id_93">your letter</rs>. I gather
+                     <lb/>that,in the end, <rs type="person" ref="#amp_person_4">Chester</rs> deci<unclear>de</unclear>d not t<unclear>o</unclear>
+                     <lb/>go to <rs type="place" ref="#amp_place_id_1">Vienna</rs>.
                   </p>
                   <p>
-                     Meanwhile, I am in despair about the<lb/>
-                     practical matter of the whereabouts and<lb/>
-                     condition of the car<unclear>.</unclear> <unclear>N</unclear>o answer from <rs type="person" ref="#amp_person_21">Ho<unclear>l</unclear>fman</rs>.<lb/>
-                     Can he be dead, too<unclear>?</unclear> I shoul<unclear>d</unclear> be most<lb/>
-                     grateful if you would call him or on h<unclear>i</unclear>m.<lb/>
-                     to find out what is the matter. Among other<lb/>
-                     things he has the cheques for <rs type="person" ref="#amp_person_32">my <foreign xml:lang="de">Hausmeisterin</foreign></rs>.<lb/>
-                     Address <rs type="person" ref="#amp_person_21">Otto Hoff<unclear>m</unclear>a<unclear>n</unclear>n</rs>. <rs type="place" ref="#amp_place_id_48"><foreign xml:lang="de">Wien</foreign> VII. Karl S<unclear>c</unclear>hweighofegasse<lb/>
-                     4/21</rs>. Tel. 93/88/155.
+                     Meanwhile, I am in despair about the
+                     <lb/>practical matter of the whereabouts and
+                     <lb/>condition of the car<unclear>.</unclear> <unclear>N</unclear>o answer from <rs type="person" ref="#amp_person_21">Ho<unclear>l</unclear>fman</rs>.
+                     <lb/>Can he be dead, too<unclear>?</unclear> I shoul<unclear>d</unclear> be most
+                     <lb/>grateful if you would call him or on h<unclear>i</unclear>m.
+                     <lb/>to find out what is the matter. Among other
+                     <lb/>things he has the cheques for <rs type="person" ref="#amp_person_32">my <foreign xml:lang="de">Hausmeisterin</foreign></rs>.
+                     <lb/>Address <rs type="person" ref="#amp_person_21">Otto Hoff<unclear>m</unclear>a<unclear>n</unclear>n</rs>. <rs type="place" ref="#amp_place_id_48"><foreign xml:lang="de">Wien</foreign> VII. Karl S<unclear>c</unclear>hweighofegasse
+                     <lb/>4/21</rs>. Tel. 93/88/155.
                   </p>
                   <p>
-                     I hear that my <rs type="person" ref="#amp_person_14">old lawyer</rs> <del><gap reason="deleted"/></del> is supervising<lb/>
-                     <rs type="event" ref="#amp_event_id_13">the case</rs> but have till now heard nothing from<lb/>
-                     him. Again coul<unclear>d</unclear> you call hi<unclear>m</unclear> for me.
+                     I hear that my <rs type="person" ref="#amp_person_14">old lawyer</rs> <del><gap reason="deleted"/></del> is supervising
+                     <lb/><rs type="event" ref="#amp_event_id_13">the case</rs> but have till now heard nothing from
+                     <lb/>him. Again coul<unclear>d</unclear> you call hi<unclear>m</unclear> for me.
                   </p>
                   <p>
-                     <rs type="person" ref="#amp_person_14">Dr Walter Redlich</rs>. <rs type="place" ref="#amp_place_id_49"><foreign xml:lang="de">Wien</foreign> <unclear>X</unclear>IX . Paradisgasse 55.</rs><lb/>
-                     Tel: 36/43/83.
+                     <rs type="person" ref="#amp_person_14">Dr Walter Redlich</rs>. <rs type="place" ref="#amp_place_id_49"><foreign xml:lang="de">Wien</foreign> <unclear>X</unclear>IX . Paradisgasse 55.</rs>
+                     <lb/>Tel: 36/43/83.
                   </p>
                   <p>
-                     Terribly sorry to be such a nuis<unclear>a</unclear>nce, <unclear>b</unclear>ut<lb/>
-                     I don't k<unclear>now</unclear> what to do. I can't get intouch<lb/>
-                     <gap reason="illegible"/> the Insurance till I know more
+                     Terribly sorry to be such a nuis<unclear>a</unclear>nce, <unclear>b</unclear>ut
+                     <lb/>I don't k<unclear>now</unclear> what to do. I can't get intouch
+                     <lb/><gap reason="illegible"/> the Insurance till I know more
                   </p>
                   <closer>
                      <salute>

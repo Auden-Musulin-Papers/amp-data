@@ -145,19 +145,19 @@ for any purpose, even commercially.</p>
             <div type="envelope" xml:lang="de">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0033/" type="envelope" ed="1r"/>
                <ab hand="#handwritten">
-                  <rs type="person" ref="#amp_person_2">Die Baronin<lb/>
-                  S<del><unclear>e</unclear></del>tella Musulin</rs><lb/>
+                  <rs type="person" ref="#amp_person_2">Die Baronin
+                  <lb/>S<del><unclear>e</unclear></del>tella Musulin</rs>
                   <address>
-                     <rs type="place" ref="#amp_place_id_11"><del>1040</del> Wien <del>IV</del><lb/>
-                     Neulingasse 26</rs>
+                     <lb/><rs type="place" ref="#amp_place_id_11"><del>1040</del> Wien <del>IV</del>
+                     <lb/>Neulingasse 26</rs>
                   </address>
                </ab>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0034/" type="envelope" ed="1v"/>
                <ab hand="#printed">
                   <address>
-                     <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN, BEZ. ST. PÖLTEN<lb/>
-                     HINTERHOLZ 6<lb/>
-                     N.-Ö., <foreign xml:lang="en">AUSTRIA</foreign></rs>
+                     <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN, BEZ. ST. PÖLTEN
+                     <lb/>HINTERHOLZ 6
+                     <lb/>N.-Ö., <foreign xml:lang="en">AUSTRIA</foreign></rs>
                   </address>
                </ab>
             </div>
@@ -188,14 +188,14 @@ for any purpose, even commercially.</p>
                      </salute>
                   </opener>
                   <p>
-                     Terribly sorry about <rs type="event" ref="#amp_event_id_78"><unclear>l</unclear>ast Sunday</rs>.<lb/>
-                     Since I had no idea whe<unclear>n</unclear> we should be<lb/>
-                     a<unclear>b</unclear>le to get to you, I tho<unclear>u</unclear>g<unclear>ht</unclear> it was unfair<lb/>
-                     to t<unclear>he</unclear> kitchen not to cancel.
+                     Terribly sorry about <rs type="event" ref="#amp_event_id_78"><unclear>l</unclear>ast Sunday</rs>.
+                     <lb/>Since I had no idea whe<unclear>n</unclear> we should be
+                     <lb/>a<unclear>b</unclear>le to get to you, I tho<unclear>u</unclear>g<unclear>ht</unclear> it was unfair
+                     <lb/>to t<unclear>he</unclear> kitchen not to cancel.
                   </p>
                   <p>
-                     Ha<unclear>ve</unclear> a ni<unclear>c</unclear>e <unclear>win</unclear>ter and <unclear>wi</unclear>ll see you, I hop<unclear>e</unclear>,<lb/>
-                     early in Apr<unclear>il</unclear>
+                     Ha<unclear>ve</unclear> a ni<unclear>c</unclear>e <unclear>win</unclear>ter and <unclear>wi</unclear>ll see you, I hop<unclear>e</unclear>,
+                     <lb/>early in Apr<unclear>il</unclear>
                   </p>
                   <closer>
                      <salute>
@@ -209,9 +209,9 @@ for any purpose, even commercially.</p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0104/" type="sheet" ed="2v"/>
                <div type="poem">
                   <head>
-                     <space quantity="4" unit="char"/><rs type="lit_work" ref="#lit_work_id_58"><hi rend="underline">ELEGY</hi><lb/>
-                     (<hi rend="underline">In Memoriam <rs type="person" ref="#amp_person_16">Emma Eiermann</rs></hi>. <del>ob</del><lb/>
-                     <space quantity="1" unit="char"/><hi rend="underline">ob.Nov 4th,I967)</hi></rs>
+                     <space quantity="4" unit="char"/><rs type="lit_work" ref="#lit_work_id_58"><hi rend="underline">ELEGY</hi>
+                     <lb/>(<hi rend="underline">In Memoriam <rs type="person" ref="#amp_person_16">Emma Eiermann</rs></hi>. <del>ob</del>
+                     <lb/><space quantity="1" unit="char"/><hi rend="underline">ob.Nov 4th,I967)</hi></rs>
                   </head>
                   <cb n="1"/>
                   <lg>

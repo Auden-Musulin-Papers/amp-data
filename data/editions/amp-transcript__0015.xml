@@ -130,26 +130,26 @@ for any purpose, even commercially.</p>
             <div type="envelope"> 
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0071/" type="envelope"/>
                <ab>
-                  <rs type="lit_work" ref="#lit_work_id_91">Translation</rs> rec<unclear>d.</unclear><lb/>
-                  <rs type="event" ref="#amp_event_id_14">Wedding <unclear>n</unclear>ear<rs type="place" ref="#amp_place_id_62">Kre<unclear>m</unclear>s</rs></rs><lb/>
+                  <rs type="lit_work" ref="#lit_work_id_91">Translation</rs> rec<unclear>d.</unclear>
+                  <lb/><rs type="event" ref="#amp_event_id_14">Wedding <unclear>n</unclear>ear<rs type="place" ref="#amp_place_id_62">Kre<unclear>m</unclear>s</rs></rs><!-- maybe we should disregard the <lb/> -->
                </ab>
                <ab xml:lang="de">
-                  <rs type="person" ref="#amp_person_2">Die Baronin<lb/>
-                  Stella Musulin</rs><lb/>
+                  <rs type="person" ref="#amp_person_2">Die Baronin
+                  <lb/>Stella Musulin</rs>
                   <address>
-                     <rs type="place" ref="#amp_place_id_11">1030 Wien<lb/>
-                     Neulinggasse 26/14</rs>
+                     <lb/><rs type="place" ref="#amp_place_id_11">1030 Wien
+                     <lb/>Neulinggasse 26/14</rs>
                   </address>      
                </ab>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0072/" type="envelope"/>
                <ab>
-                  <rs type="person" ref="#amp_person_1">WH Auden</rs><lb/>
+                  <rs type="person" ref="#amp_person_1">WH Auden</rs>
                   <seg hand="#printed">
                      <address xml:lang="de">  
-                        <rs type="place" ref="#amp_place_id_2">3062 KIRCHSTETTEN<lb/>
-                        BEZ. ST. PÖLTEN<lb/>
-                        HINTERHOLZ 6<lb/>
-                        N.-Ö., <foreign xml:lang="en">AUSTRIA</foreign></rs>
+                        <lb/><rs type="place" ref="#amp_place_id_2">3062 KIRCHSTETTEN
+                        <lb/>BEZ. ST. PÖLTEN
+                        <lb/>HINTERHOLZ 6
+                        <lb/>N.-Ö., <foreign xml:lang="en">AUSTRIA</foreign></rs>
                      </address>    
                   </seg>   
                </ab>
@@ -163,10 +163,10 @@ for any purpose, even commercially.</p>
                      <placeName>
                         <seg hand="#printed">
                            <address xml:lang="de">
-                              <rs type="place" ref="#amp_place_id_2">3062 KIRCHSTETTEN<lb/>
-                              BEZ. ST. PÖLTEN<lb/>
-                              HINTERHOLZ 6<lb/>
-                              N.-Ö., <foreign xml:lang="en">AUSTRIA</foreign></rs>
+                              <rs type="place" ref="#amp_place_id_2">3062 KIRCHSTETTEN
+                              <lb/>BEZ. ST. PÖLTEN
+                              <lb/>HINTERHOLZ 6
+                              <lb/>N.-Ö., <foreign xml:lang="en">AUSTRIA</foreign></rs>
                            </address>
                         </seg>
                      </placeName>  
@@ -176,24 +176,24 @@ for any purpose, even commercially.</p>
                   </salute>
                   </opener>
                   <p>
-                     <rs type="event" ref="#amp_event_id_98"><rs type="lit_work" ref="#lit_work_id_91" ana="">Translation</rs> just received</rs>. Thanks<lb/><!-- link to interp re Musulin's translation (as in doc 0043) -->
-                     <unclear>e</unclear> million.
+                     <rs type="event" ref="#amp_event_id_98"><rs type="lit_work" ref="#lit_work_id_91" ana="">Translation</rs> just received</rs>. Thanks<!-- link to interp re Musulin's translation (as in doc 0043) -->
+                     <lb/><unclear>e</unclear> million.
                   </p>
                   <p>
-                     On Saturday <rs type="person" ref="#amp_person_4">Chester</rs> and I have<lb/>
-                     to attend a <rs type="event" ref="#amp_event_id_14">wedding<del><unclear>in</unclear></del>near<lb/>
-                     <rs type="place" ref="#amp_place_id_62">Kr<unclear>e</unclear>ms</rs></rs> at 3<unclear>·</unclear>0.p.m,which means<lb/>
-                     we shall have to lunch at 12<unclear>·</unclear>0<unclear>,</unclear><lb/>
-                     Could you possibly make that<unclear>?</unclear><lb/>
-                     If not,per<unclear>haps</unclear> you could come<lb/>
-                     on Monday,<del>if ·retur:</del> or whichever day<lb/>
-                     you <unclear>w</unclear>ill be retur<unclear>n</unclear>ing to <rs type="place" ref="#amp_place_id_1">Vienna</rs><lb/>
-                     from <rs type="place" ref="#amp_place_id_7">Fridau</rs><unclear>.</unclear>
+                     On Saturday <rs type="person" ref="#amp_person_4">Chester</rs> and I have
+                     <lb/>to attend a <rs type="event" ref="#amp_event_id_14">wedding<del><unclear>in</unclear></del>near
+                     <lb/><rs type="place" ref="#amp_place_id_62">Kr<unclear>e</unclear>ms</rs></rs> at 3<unclear>·</unclear>0.p.m,which means
+                     <lb/>we shall have to lunch at 12<unclear>·</unclear>0<unclear>,</unclear>
+                     <lb/>Could you possibly make that<unclear>?</unclear>
+                     <lb/>If not,per<unclear>haps</unclear> you could come
+                     <lb/>on Monday,<del>if ·retur:</del> or whichever day
+                     <lb/>you <unclear>w</unclear>ill be retur<unclear>n</unclear>ing to <rs type="place" ref="#amp_place_id_1">Vienna</rs>
+                     <lb/>from <rs type="place" ref="#amp_place_id_7">Fridau</rs><unclear>.</unclear>
                   </p>
                   <closer>
                      <salute>
-                        love and again thanks ever<lb/>
-                        so much
+                        love and again thanks ever
+                        <lb/>so much
                      </salute>
                      <signed><rs type="person" ref="#amp_person_1">Wystan</rs></signed>
                   </closer>

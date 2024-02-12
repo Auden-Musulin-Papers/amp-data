@@ -172,24 +172,24 @@ for any purpose, even commercially.</p>
             <div type="envelope">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0043/" type="envelope" ed="1r"/>
                <ab>
-                  <rs type="person" ref="#amp_person_1">W<unclear>.</unclear>H<unclear>.</unclear>Auden</rs><lb/>
-                  ℅ <rs type="person" ref="#amp_person_19">Heyworth</rs><lb/>
+                  <rs type="person" ref="#amp_person_1">W<unclear>.</unclear>H<unclear>.</unclear>Auden</rs>
+                  <lb/>℅ <rs type="person" ref="#amp_person_19">Heyworth</rs>
                   <address>
-                     <rs type="place" ref="#amp_place_id_45">32 Bryanston Square<lb/>
-                     London. W.I.<lb/>
-                     England</rs>
+                     <lb/><rs type="place" ref="#amp_place_id_45">32 Bryanston Square
+                     <lb/>London. W.I.
+                     <lb/>England</rs>
                   </address>
                </ab>
                <ab>
                   <del><gap reason="deleted"/></del>A<hi rend="underline">ir-M<unclear>ail</unclear></hi>
                </ab>
                <ab xml:lang="de">
-                  <rs type="person" ref="#amp_person_2">Die Baronin<lb/>
-                  Stella Musulin</rs><lb/>
+                  <rs type="person" ref="#amp_person_2">Die Baronin
+                  <lb/>Stella Musulin</rs>
                   <address>
-                     <rs type="place" ref="#amp_place_id_11">Wien <del>IV</del>III<lb/>
-                     Neulinggasse 26<lb/>
-                     <foreign xml:lang="en">A<hi rend="underline">ustria </hi></foreign>.</rs>
+                     <rs type="place" ref="#amp_place_id_11">Wien <del>IV</del>III
+                     <lb/>Neulinggasse 26
+                     <lb/><foreign xml:lang="en">A<hi rend="underline">ustria </hi></foreign>.</rs>
                   </address>
                </ab>
                <ab>
@@ -219,53 +219,53 @@ for any purpose, even commercially.</p>
                      </salute>
                   </opener>
                   <p>
-                     <rs type="event" ref="#amp_event_id_87">Got back from <rs type="place" ref="#amp_place_id_46">Oxford</rs> yesterday</rs> and found <rs type="event" ref="#amp_event_id_88">your<lb/>
-                     lett<unclear>e</unclear>r</rs> waiting.
+                     <rs type="event" ref="#amp_event_id_87">Got back from <rs type="place" ref="#amp_place_id_46">Oxford</rs> yesterday</rs> and found <rs type="event" ref="#amp_event_id_88">your
+                     <lb/>lett<unclear>e</unclear>r</rs> waiting.
                   </p>
                   <p>
                      <seg>
-                        <lb/>1) I think I ought to take the <rs type="person" ref="#amp_person_155 #amp_person_171" ana="#ana_012">couple</rs> <rs type="place" ref="#amp_place_id_2">in</rs> , but<lb/>
-                        I must leave it to you to decide whether<lb/>
-                        they are O.K. If they are , all rooms, includi<unclear>ng</unclear><lb/>
-                        my study ( which can't be heated are open to them<unclear>.</unclear>
+                        <lb/>1) I think I ought to take the <rs type="person" ref="#amp_person_155 #amp_person_171" ana="#ana_012">couple</rs> <rs type="place" ref="#amp_place_id_2">in</rs> , but
+                        <lb/>I must leave it to you to decide whether
+                        <lb/>they are O.K. If they are , all rooms, includi<unclear>ng</unclear>
+                        <lb/>my study ( which can't be heated are open to them<unclear>.</unclear>
                      </seg>
                      <seg>
                         <seg>
-                           <lb/>2). How much money will they need to keep going ?<lb/>
-                           And how shall I make the arrangements for payment.
+                           <lb/>2). How much money will they need to keep going ?
+                           <lb/>And how shall I make the arrangements for payment.
                         </seg>
                         <seg>
-                           <lb/>Here, I suggest<lb/>
-                           you cont<unclear>a</unclear>ct<lb/>
-                           <rs type="person" ref="#amp_person_21">Otto Hoffmann</rs>.<lb/>
-                           <rs type="place" ref="#amp_place_id_48">
-                              <foreign xml:lang="de">Wien</foreign> VII<lb/>
-                              Karl Schweighofgasse<lb/>
+                           <lb/>Here, I suggest
+                           <lb/>you cont<unclear>a</unclear>ct
+                           <lb/><rs type="person" ref="#amp_person_21">Otto Hoffmann</rs>.
+                           <lb/><rs type="place" ref="#amp_place_id_48">
+                            <lb/><foreign xml:lang="de">Wien</foreign> VII
+                              <lb/>Karl Schweighofgasse
                               4/21
-                           </rs><lb/>
-                           Tel. 93/88/155.
+                           </rs>
+                           <lb/>Tel. 93/88/155.
                         </seg>
                      </seg>
                      <seg>
-                        <lb/>3) Will they be able to find work or emigrate before<lb/>
-                        I return in April,<unclear>w</unclear>hen <unclear>I</unclear>'m afraid there will<lb/>
-                        not be room for them.?
+                        <lb/>3) Will they be able to find work or emigrate before
+                        <lb/>I return in April,<unclear>w</unclear>hen <unclear>I</unclear>'m afraid there will
+                        <lb/>not be room for them.?
                      </seg>
                      <seg>
-                        <lb/>4) I'm worried about how they will get gas-cylinders<lb/>
-                        for cooking from <rs type="place" ref="#amp_place_id_47">Neulengbach</rs> ,since, presumably <unclear>.</unclear> they<lb/>
-                        have no car. I expect someone in the <rs type="place" ref="#amp_place_id_5">village</rs><lb/>
-                        will help.
+                        <lb/>4) I'm worried about how they will get gas-cylinders
+                        <lb/>for cooking from <rs type="place" ref="#amp_place_id_47">Neulengbach</rs> ,since, presumably <unclear>.</unclear> they
+                        <lb/>have no car. I expect someone in the <rs type="place" ref="#amp_place_id_5">village</rs>
+                        <lb/>will help.
                      </seg>
                      <seg>
-                        <lb/>5). <unclear>If</unclear> and when they come, I must know in advance<lb/>
-                        so that I can write a note to the<lb/>
-                        <rs type="person" ref="#amp_person_22"><foreign xml:lang="de"><choice><orig>Burgomeister</orig><reg>Bürgermeister</reg></choice></foreign></rs>.
+                        <lb/>5). <unclear>If</unclear> and when they come, I must know in advance
+                        <lb/>so that I can write a note to the
+                        <lb/><rs type="person" ref="#amp_person_22"><foreign xml:lang="de"><choice><orig>Burgomeister</orig><reg>Bürgermeister</reg></choice></foreign></rs>.
                      </seg>
                   </p>
                   <p>
-                     Shall be here <unclear>in</unclear> my address until Oc<unclear>t</unclear> 31.st <rs type="event" ref="#amp_event_id_89">After that<lb/>
-                     <rs type="place" ref="#amp_place_id_29">77 St Mark's Place .N.Y.C. N.Y 10003</rs></rs> .
+                     Shall be here <unclear>in</unclear> my address until Oc<unclear>t</unclear> 31.st <rs type="event" ref="#amp_event_id_89">After that
+                     <lb/><rs type="place" ref="#amp_place_id_29">77 St Mark's Place .N.Y.C. N.Y 10003</rs></rs> .
                   </p>
                   <closer>
                      <salute>

@@ -155,25 +155,25 @@ for any purpose, even commercially.</p>
             <div type="envelope">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0091/" type="envelope"/>
                <ab>
-                  <rs type="person" ref="#amp_person_1">W<unclear>.</unclear>H.Auden</rs><lb/>
+                  <rs type="person" ref="#amp_person_1">W<unclear>.</unclear>H.Auden</rs>
                   <address>  
-                     <rs type="place" ref="#amp_place_id_29">77 St Mark's Place<lb/>
-                     New York City<lb/>
-                     N.Y . 10003<lb/>
-                     U.S.A</rs>
+                     <lb/><rs type="place" ref="#amp_place_id_29">77 St Mark's Place
+                     <lb/>New York City
+                     <lb/>N.Y . 10003
+                     <lb/>U.S.A</rs>
                   </address>    
                </ab>
                <ab>
                   Not <unclear>q</unclear>uitti<unclear>n</unclear>g <rs type="place" ref="#amp_place_id_5">Kirchstetten</rs> <unclear>·</unclear>
                </ab>
                <ab xml:lang="de">
-                  <rs type="person" ref="#amp_person_2">Die Baronin<lb/>
-                  Stella Musulin</rs><lb/>
+                  <rs type="person" ref="#amp_person_2">Die Baronin
+                  <lb/>Stella Musulin</rs>
                   <address> 
-                     <rs type="place" ref="#amp_place_id_7">Fridau<lb/>
-                     3200 Obergrabendorf<lb/>
-                     N. Ö<lb/>
-                     <foreign xml:lang="en">Austria</foreign></rs>
+                     <lb/><rs type="place" ref="#amp_place_id_7">Fridau
+                     <lb/>3200 Obergrabendorf
+                     <lb/>N. Ö
+                     <lb/><foreign xml:lang="en">Austria</foreign></rs>
                   </address>
                </ab>   
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0092/" type="envelope"/>
@@ -186,9 +186,9 @@ for any purpose, even commercially.</p>
                         <date rend="#block">Feb 22nd, 1972</date>
                         <placeName>
                            <address>
-                              <rs type="place" ref="#amp_place_id_29">77 St Mark's Place<lb/>
-                              New York City<lb/>
-                              N.Y. 10003</rs>
+                              <rs type="place" ref="#amp_place_id_29">77 St Mark's Place
+                              <lb/>New York City
+                              <lb/>N.Y. 10003</rs>
                            </address>
                         </placeName>
                      </dateline>
@@ -197,11 +197,11 @@ for any purpose, even commercially.</p>
                      </salute>
                   </opener>
                   <p>
-                     <rs type="event" ref="#amp_event_id_102">Many thanks for your letter</rs><unclear>,</unclear> Whate<unclear>ve</unclear>r<lb/>
-                     ma<unclear>d</unclear>e you imagine I was quitting <rs type="place" ref="#amp_place_id_5">Kirchst<unclear>e</unclear>tten</rs><unclear>?</unclear><lb/>
-                     Of course I'm not<unclear>,</unclear> The <rs type="event" ref="#amp_event_id_43" ana="#ana_018">change</rs> is that I<lb/>
-                     shall be spending my winters in <rs type="place" ref="#amp_place_id_46">Oxford</rs><lb/>
-                     not in <rs type="place" ref="#amp_place_id_28">New York</rs>.
+                     <rs type="event" ref="#amp_event_id_102">Many thanks for your letter</rs><unclear>,</unclear> Whate<unclear>ve</unclear>r
+                     <lb/>ma<unclear>d</unclear>e you imagine I was quitting <rs type="place" ref="#amp_place_id_5">Kirchst<unclear>e</unclear>tten</rs><unclear>?</unclear>
+                     <lb/>Of course I'm not<unclear>,</unclear> The <rs type="event" ref="#amp_event_id_43" ana="#ana_018">change</rs> is that I
+                     <lb/>shall be spending my winters in <rs type="place" ref="#amp_place_id_46">Oxford</rs>
+                     <lb/>not in <rs type="place" ref="#amp_place_id_28">New York</rs>.
                   </p>
                   <closer>
                      <salute>love</salute>

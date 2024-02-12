@@ -143,25 +143,25 @@ for any purpose, even commercially.</p>
                   <hi rend="underline">Express</hi>
                </ab>
                <ab>
-                  "<unclear>L</unclear>onging to hear abo<unclear>u</unclear>t<lb/>
-                  <rs type="event" ref="#amp_event_id_7">royal visi<unclear>t</unclear></rs> .<unclear>"</unclear>
+                  "<unclear>L</unclear>onging to hear abo<unclear>u</unclear>t
+                  <lb/><rs type="event" ref="#amp_event_id_7">royal visi<unclear>t</unclear></rs> .<unclear>"</unclear>
                </ab>
                <ab xml:lang="de">
-                  <rs type="person" ref="#amp_person_2">Die Baronin<lb/>
-                  Stella Musuli<unclear>m</unclear></rs><lb/>
+                  <rs type="person" ref="#amp_person_2">Die Baronin
+                  <lb/>Stella Musuli<unclear>m</unclear></rs>
                   <address>   
-                     <rs type="place" ref="#amp_place_id_11">Wien III<lb/>
-                     Neulinggasse 26/14</rs>
+                    <lb/> <rs type="place" ref="#amp_place_id_11">Wien III
+                     <lb/>Neulinggasse 26/14</rs>
                   </address>
                </ab>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0064/" type="envelope" ed="1v"/>
                <ab>
-                  <rs type="person" ref="#amp_person_1">W<unclear>H.</unclear> Auden</rs><lb/>
+                  <rs type="person" ref="#amp_person_1">W<unclear>H.</unclear> Auden</rs>
                   <seg type="#printed">
                      <address xml:lang="de">
-                        <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN, BEZ. ST. PÖLTEN<lb/>
-                        HINTERHOLZ 6<lb/>
-                        N.-Ö., <foreign xml:lang="en">AUSTRIA</foreign></rs>
+                        <lb/><rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN, BEZ. ST. PÖLTEN
+                        <lb/>HINTERHOLZ 6
+                        <lb/>N.-Ö., <foreign xml:lang="en">AUSTRIA</foreign></rs>
                      </address>
                   </seg>
                </ab>
@@ -174,9 +174,9 @@ for any purpose, even commercially.</p>
                         <placeName>
                            <seg hand="#printed">
                               <address xml:lang="de">  
-                                 <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN, BEZ. ST. PÖLTEN<lb/>
-                                 HINTERHOLZ 6<lb/>
-                                 N.-Ö., <foreign xml:lang="en">AUSTRIA</foreign></rs>
+                                 <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN, BEZ. ST. PÖLTEN
+                                 <lb/>HINTERHOLZ 6
+                                 <lb/>N.-Ö., <foreign xml:lang="en">AUSTRIA</foreign></rs>
                               </address>
                            </seg>
                         </placeName>
@@ -189,18 +189,18 @@ for any purpose, even commercially.</p>
                      </salute>   
                   </opener>
                   <p>
-                     Ma<unclear>n</unclear>y thank f<unclear>o</unclear> <rs type="event" ref="#amp_event_id_94">your card</rs><unclear>,</unclear> <rs type="event" ref="#amp_event_id_95">Had<lb/>
-                     tried several <unclear>ti</unclear>mes t<unclear>o</unclear> reach you<lb/>
-                     by phone,but w<unclear>ithou</unclear>t succ<unclear>e</unclear>ss</rs>  
+                     Ma<unclear>n</unclear>y thank f<unclear>o</unclear> <rs type="event" ref="#amp_event_id_94">your card</rs><unclear>,</unclear> <rs type="event" ref="#amp_event_id_95">Had
+                     <lb/>tried several <unclear>ti</unclear>mes t<unclear>o</unclear> reach you
+                     <lb/>by phone,but w<unclear>ithou</unclear>t succ<unclear>e</unclear>ss</rs>  
                   </p>
                   <p>
-                     <rs type="event" ref="#amp_event_id_22"  ana="acdh:amp-transcript__0053.xml#ana_024">Wed<unclear>n</unclear>esday <del>lunch</del> May 28th is fine<lb/>
-                     for <rs type="person" ref="#amp_person_1 #amp_person_4">us</rs>,and we shall much look<lb/>
-                     forward to seeing you <rs type="person" ref="#amp_person_2 #amp_person_54">both</rs></rs><unclear>-</unclear>
+                     <rs type="event" ref="#amp_event_id_22"  ana="acdh:amp-transcript__0053.xml#ana_024">Wed<unclear>n</unclear>esday <del>lunch</del> May 28th is fine
+                     <lb/>for <rs type="person" ref="#amp_person_1 #amp_person_4">us</rs>,and we shall much look
+                     <lb/>forward to seeing you <rs type="person" ref="#amp_person_2 #amp_person_54">both</rs></rs><unclear>-</unclear>
                   </p>
                   <p>
-                     <del>H</del> Longing to hear about the<lb/>
-                     <rs type="event" ref="#amp_event_id_7">Royal v<unclear>s</unclear>it</rs>.<lb/>
+                     <del>H</del> Longing to hear about the
+                     <lb/><rs type="event" ref="#amp_event_id_7">Royal v<unclear>s</unclear>it</rs>. <!-- we shouldn't have <lb/> in the first place -->
                   </p>
                   <closer>
                      <salute>

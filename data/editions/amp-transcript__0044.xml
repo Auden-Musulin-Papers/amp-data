@@ -128,8 +128,8 @@ for any purpose, even commercially.</p>
                         <placeName>
                            <seg hand="#printed">
                               <address>
-                                 <addrLine>from <rs type="person" ref="#amp_person_19">Peter Heyworth</rs><lb/></addrLine>
-                                 <rs type="place" ref="#amp_place_id_45">32 BRYANSTON SQUARE <space quantity="1" unit="char"/>LONDON W1 <space quantity="1" unit="char"/>· <space quantity="1" unit="char"/>AMBASSADOR 8906</rs>
+                                 <addrLine>from <rs type="person" ref="#amp_person_19">Peter Heyworth</rs></addrLine>
+                                 <lb/><rs type="place" ref="#amp_place_id_45">32 BRYANSTON SQUARE <space quantity="1" unit="char"/>LONDON W1 <space quantity="1" unit="char"/>· <space quantity="1" unit="char"/>AMBASSADOR 8906</rs>
                               </address>
                            </seg>
                         </placeName>
@@ -138,25 +138,25 @@ for any purpose, even commercially.</p>
                      <salute>Dear <rs type="person" ref="#amp_person_2">Stella</rs>:</salute>  
                   </opener>                  
                <p>
-                  Many thanks for <rs type="event" ref="#amp_event_id_90">your lette<unclear>r</unclear></rs> and the<lb/>
-                  Dr<unclear>viv</unclear>ing li<unclear>c</unclear>ence <unclear>w</unclear>hich I am mu<unclear>c</unclear>h relieved<lb/>
-                  to get.
+                  Many thanks for <rs type="event" ref="#amp_event_id_90">your lette<unclear>r</unclear></rs> and the
+                  <lb/>Dr<unclear>viv</unclear>ing li<unclear>c</unclear>ence <unclear>w</unclear>hich I am mu<unclear>c</unclear>h relieved
+                  <lb/>to get.
                </p>
                <p>
-                  I can't possibly have the <rs type="person" ref="#amp_person_155 #amp_person_171" ana="acdh:amp-transcript__0009.xml#ana_012">Langers</rs><lb/>
-                  shivering,so I enclose a cheque for<lb/>
-                  S.2000 for extra fuel,and will send<lb/>
-                  more if and when needed.
+                  I can't possibly have the <rs type="person" ref="#amp_person_155 #amp_person_171" ana="acdh:amp-transcript__0009.xml#ana_012">Langers</rs>
+                  <lb/>shivering,so I enclose a cheque for
+                  <lb/>S.2000 for extra fuel,and will send
+                  <lb/>more if and when needed.
                </p>
                <p>
-                  Wh<unclear>a</unclear>t is <rs type="person" ref="#amp_person_155">Mr Langer</rs>s first name.? Does<lb/>
-                  he underst<unclear>a</unclear>nd English? I <unclear>m</unclear>u<unclear>s</unclear>t w<unclear>ri</unclear>te<lb/>
-                  him a note of welcome.
+                  Wh<unclear>a</unclear>t is <rs type="person" ref="#amp_person_155">Mr Langer</rs>s first name.? Does
+                  <lb/>he underst<unclear>a</unclear>nd English? I <unclear>m</unclear>u<unclear>s</unclear>t w<unclear>ri</unclear>te
+                  <lb/>him a note of welcome.
                </p>
                <p>
-                  <rs type="event" ref="#amp_event_id_89">I leave <unclear><del><gap reason="deleted"/></del>to-</unclear>day week for <rs type="place" ref="#amp_place_id_28">Ne<unclear>w</unclear> York</rs></rs>.<lb/>
-                  <unclear>A</unclear>ddress. <rs type="place" ref="#amp_place_id_29">77 St Mark's Place. New<lb/>
-                  York City. New York 10003.</rs>
+                  <rs type="event" ref="#amp_event_id_89">I leave <unclear><del><gap reason="deleted"/></del>to-</unclear>day week for <rs type="place" ref="#amp_place_id_28">Ne<unclear>w</unclear> York</rs></rs>.
+                  <lb/><unclear>A</unclear>ddress. <rs type="place" ref="#amp_place_id_29">77 St Mark's Place. New
+                  <lb/>York City. New York 10003.</rs>
                </p>
                <closer>
                   <salute>much love and thanks</salute>

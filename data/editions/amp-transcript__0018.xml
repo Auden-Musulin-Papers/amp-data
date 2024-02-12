@@ -137,12 +137,12 @@ for any purpose, even commercially.</p>
                   <rs type="lit_work" ref="#lit_work_id_165">Poem</rs> dedicated to <rs type="person" ref="#amp_person_2">S<unclear>_</unclear>M<unclear>_</unclear></rs>
                </ab>
                <ab xml:lang="de">
-                  <rs type="person" ref="#amp_person_2">Die Baro<unclear>n</unclear>in<lb/>
-                  Stella Musulin</rs><lb/>
+                  <rs type="person" ref="#amp_person_2">Die Baro<unclear>n</unclear>in
+                  <lb/>Stella Musulin</rs>
                   <address> 
-                     <rs type="place" ref="#amp_place_id_11">Wien <del>IV</del> 1030<lb/>
-                     Neulinggasse 26/14<lb/>
-                     <foreign xml:lang="en">Austria</foreign></rs>
+                     <lb/><rs type="place" ref="#amp_place_id_11">Wien <del>IV</del> 1030
+                     <lb/>Neulinggasse 26/14
+                     <lb/><foreign xml:lang="en">Austria</foreign></rs>
                   </address>
                </ab>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0088/" type="envelope"/>
@@ -153,11 +153,11 @@ for any purpose, even commercially.</p>
                   <opener>
                      <dateline>
                         <date rend="#block">Oct 19 th .</date>
-                        ℅ <rs type="person" ref="#amp_person_8 #amp_person_191">Spender</rs><lb/>
+                        ℅ <rs type="person" ref="#amp_person_8 #amp_person_191">Spender</rs>
                         <placeName>
                            <address>          
-                             <rs type="place" ref="#amp_place_id_69">15 Loudoun Rd<lb/>
-                             London. N.W.8</rs>
+                             <lb/><rs type="place" ref="#amp_place_id_69">15 Loudoun Rd
+                             <lb/>London. N.W.8</rs>
                            </address>
                         </placeName>    
                      </dateline>
@@ -167,20 +167,20 @@ for any purpose, even commercially.</p>
                   </opener>
                   <p>
                      Were very disappointed that <rs type="person" ref="#amp_person_1 #amp_person_4">we</rs> didn't
-                     see you again before we left. You seem<lb/>
-                     to have stayed in <rs type="place" ref="#amp_place_id_239">England</rs> much longer than<lb/>
-                     usual.
+                     see you again before we left. You seem
+                     <lb/>to have stayed in <rs type="place" ref="#amp_place_id_239">England</rs> much longer than
+                     <lb/>usual.
                   </p>
                   <p>
-                     This morning a copy of <rs type="lit_work" ref="#lit_work_id_45"><hi rend="underline">Austri<unclear>a</unclear></hi></rs> ar<unclear>r</unclear>ived<lb/>
-                     from <rs type="org" ref="#amp_organization_5">Faber's</rs>. <unclear>:</unclear> The illustrations, which I hadn't<lb/>
-                     seen before seem excellent
+                     This morning a copy of <rs type="lit_work" ref="#lit_work_id_45"><hi rend="underline">Austri<unclear>a</unclear></hi></rs> ar<unclear>r</unclear>ived
+                     <lb/>from <rs type="org" ref="#amp_organization_5">Faber's</rs>. <unclear>:</unclear> The illustrations, which I hadn't
+                     <lb/>seen before seem excellent
                   </p>
                   <p>
-                     Overleaf a <rs type="lit_work" ref="#lit_work_id_43">poem</rs> I want to dedicate to<lb/>
-                     you. Fir<unclear>s</unclear>tly , because of its subject and,<lb/>
-                     se<unclear>c</unclear>ondly, bec<unclear>a</unclear>use it is written in an i<unclear>m</unclear>itat<unclear>in</unclear><lb/>
-                     of a medieval Welsh metre called a <hi rend="underline">Cywydd<unclear>,</unclear></hi>
+                     Overleaf a <rs type="lit_work" ref="#lit_work_id_43">poem</rs> I want to dedicate to
+                     <lb/>you. Fir<unclear>s</unclear>tly , because of its subject and,
+                     <lb/>se<unclear>c</unclear>ondly, bec<unclear>a</unclear>use it is written in an i<unclear>m</unclear>itat<unclear>in</unclear>
+                     <lb/>of a medieval Welsh metre called a <hi rend="underline">Cywydd<unclear>,</unclear></hi>
                   </p>
                   <p>
                      <rs type="event" ref="#amp_event_id_101">Return to <rs type="place" ref="#amp_place_id_28">New York</rs> on N<unclear>Ov</unclear> 1st</rs>.
@@ -193,8 +193,8 @@ for any purpose, even commercially.</p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0090/" type="sheet"/>
                <div type="poem" hand="#typed">   
                   <head>
-                     <space quantity="26" unit="char"/><rs type="lit_work" ref="#lit_work_id_43"><hi rend="underline"><foreign xml:lang="de">STARK BEW<unclear>Ö</unclear>LKT</foreign></hi></rs><lb/>
-                     <space quantity="22" unit="char"/>(<hi rend="underline">for <rs type="person" ref="#amp_person_2">Stella Musulin</rs></hi>)
+                     <space quantity="26" unit="char"/><rs type="lit_work" ref="#lit_work_id_43"><hi rend="underline"><foreign xml:lang="de">STARK BEW<unclear>Ö</unclear>LKT</foreign></hi></rs>
+                     <lb/><space quantity="22" unit="char"/>(<hi rend="underline">for <rs type="person" ref="#amp_person_2">Stella Musulin</rs></hi>)
                   </head>
                <cb n="1"/>
                   <lg>

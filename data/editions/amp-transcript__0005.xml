@@ -136,12 +136,12 @@ for any purpose, even commercially.</p>
             <div type="envelope">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0023/" type="envelope" ed="1r"/>
                <ab>
-                  <rs type="person" ref="#amp_person_1">W.H.Auden</rs><lb/>
+                  <rs type="person" ref="#amp_person_1">W.H.Auden</rs>
                   <address>
-                     <rs type="place" ref="#amp_place_id_29">77 St Mark's Place<lb/>
-                     New York City<lb/>
-                     New York 10003<lb/>
-                     U.<unclear>S.</unclear>A</rs>
+                     <lb/><rs type="place" ref="#amp_place_id_29">77 St Mark's Place
+                     <lb/>New York City
+                     <lb/>New York 10003
+                     <lb/>U.<unclear>S.</unclear>A</rs>
                   </address>
                </ab>
                <ab>
@@ -151,12 +151,12 @@ for any purpose, even commercially.</p>
                   <rs type="event" ref="#amp_event_id_1">Death of<rs type="person" ref="#amp_person_16">Emma Eiermann</rs></rs> .
                </ab>
                <ab xml:lang="de">
-                  <rs type="person" ref="#amp_person_2">Die Baronin<lb/>
-                  Stella Musulin</rs><lb/>
+                  <rs type="person" ref="#amp_person_2">Die Baronin
+                  <lb/>Stella Musulin</rs>
                   <address>
-                     <rs type="place" ref="#amp_place_id_11">Wien III<lb/>
-                     <del><gap reason="deleted"/></del> Neulingasse 26<lb/>
-                     <foreign xml:lang="en">Au<hi rend="underline">st</hi>ria</foreign></rs>
+                     <lb/><rs type="place" ref="#amp_place_id_11">Wien III
+                     <lb/><del><gap reason="deleted"/></del> Neulingasse 26
+                     <lb/><foreign xml:lang="en">Au<hi rend="underline">st</hi>ria</foreign></rs>
                   </address>
                </ab>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0024/" type="envelope" ed="1v"/>
@@ -168,9 +168,9 @@ for any purpose, even commercially.</p>
                      <dateline>
                         <placeName>
                            <address>
-                              <rs type="place" ref="#amp_place_id_29">77 St Mark's Place<lb/>
-                              New York City<lb/>
-                              New York 10003</rs>
+                              <rs type="place" ref="#amp_place_id_29">77 St Mark's Place
+                              <lb/>New York City
+                              <lb/>New York 10003</rs>
                            </address>
                         </placeName>
                         <date rend="#block">Nov 8th</date>
@@ -180,26 +180,26 @@ for any purpose, even commercially.</p>
                      </salute>
                   </opener>
                <p>
-                  A disaster has ha<unclear>p</unclear>pened. <rs type="event" ref="#amp_event_id_1"><rs type="person" ref="#amp_person_16"><foreign xml:lang="de">Frau</foreign> Eiermann</rs><lb/>
-                  died of a heart-attack on Nov 4th</rs>.<lb/>
-                  (Ha<unclear>v</unclear> just hea<unclear>r</unclear>d this from <rs type="person" ref="#amp_person_14">my lawyer</rs>.)<unclear>.</unclear>
+                  A disaster has ha<unclear>p</unclear>pened. <rs type="event" ref="#amp_event_id_1"><rs type="person" ref="#amp_person_16"><foreign xml:lang="de">Frau</foreign> Eiermann</rs>
+                  <lb/>died of a heart-attack on Nov 4th</rs>.
+                  <lb/>(Ha<unclear>v</unclear> just hea<unclear>r</unclear>d this from <rs type="person" ref="#amp_person_14">my lawyer</rs>.)<unclear>.</unclear>
                </p>
                <p>   
-                  A minor worry connected with this is what<lb/>
-                  is happening to her cats and <rs type="person" ref="#amp_person_1 #amp_person_4">ours</rs>. I suppose<lb/>
-                  they will probably have to be destroyed.
+                  A minor worry connected with this is what
+                  <lb/>is happening to her cats and <rs type="person" ref="#amp_person_1 #amp_person_4">ours</rs>. I suppose
+                  <lb/>they will probably have to be destroyed.
                </p>
                <p>
-                  Next time you are travelling between <rs type="place" ref="#amp_place_id_7">Fridau</rs><lb/>
-                  and <rs type="place" ref="#amp_place_id_1"><foreign xml:lang="de">Wien</foreign></rs> , could you be a dear and stop<lb/>
-                  in <rs type="place" ref="#amp_place_id_5">Kirchstetten</rs> to see what is happening.<lb/>
-                  Incedentally, in case you should need it my lawyers<lb/>
-                  name and address is <rs type="person" ref="#amp_person_14">Dr Walter Redlich</rs>. <rs type="place" ref="#amp_place_id_38"><foreign xml:lang="de">Wien</foreign> I.<lb/>
-                  Wipplingerstrasse<unclear>,</unclear> 24-26</rs>.
+                  Next time you are travelling between <rs type="place" ref="#amp_place_id_7">Fridau</rs>
+                  <lb/>and <rs type="place" ref="#amp_place_id_1"><foreign xml:lang="de">Wien</foreign></rs> , could you be a dear and stop
+                  <lb/>in <rs type="place" ref="#amp_place_id_5">Kirchstetten</rs> to see what is happening.
+                  <lb/>Incedentally, in case you should need it my lawyers
+                  <lb/>name and address is <rs type="person" ref="#amp_person_14">Dr Walter Redlich</rs>. <rs type="place" ref="#amp_place_id_38"><foreign xml:lang="de">Wien</foreign> I.
+                  <lb/>Wipplingerstrasse<unclear>,</unclear> 24-26</rs>.
                </p>
                <p>   
-                  <rs type="event" ref="#amp_event_id_6">Canterbury</rs> was quite <unclear>f</unclear>un. The <rs type="person" ref="#amp_person_15">Archbishop</rs> came<lb/>
-                  to <rs type="event" ref="#amp_event_id_9">my first lecture</rs>.
+                  <rs type="event" ref="#amp_event_id_6">Canterbury</rs> was quite <unclear>f</unclear>un. The <rs type="person" ref="#amp_person_15">Archbishop</rs> came
+                  <lb/>to <rs type="event" ref="#amp_event_id_9">my first lecture</rs>.
                </p>
                <closer>
                   <salute>
