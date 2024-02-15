@@ -81,7 +81,7 @@ for any purpose, even commercially.</p>
          </langUsage>
          <correspDesc>
             <correspAction type="sent">
-               <orgName ref="#amp_organization_83">St John's Wood district office</orgName>
+               <orgName><rs type="org" ref="#amp_organization_83">St John's Wood district office</rs></orgName>
                <placeName ref="#amp_place_id_56">London</placeName>
                <date notBefore-iso="1971-10-19T14:00:01+00:00" notAfter-iso="1971-10-19T14:29:59+00:00">1971-10-19T14:00:01+00:00/1971-10-19T14:29:59+00:00</date>
             </correspAction>

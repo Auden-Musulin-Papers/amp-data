@@ -110,7 +110,7 @@ for any purpose, even commercially.</p>
          </langUsage>
          <correspDesc>
             <correspAction type="sent">
-               <orgName ref="#amp_organization_85">United States General Post Office</orgName>
+               <orgName><rs type="org" ref="#amp_organization_85">United States General Post Office</rs></orgName>
                <placeName ref="#amp_place_id_28">New York City</placeName>
                <date notBefore-iso="1968-12-30T12:00:00-05:00" notAfter-iso="1968-12-30T23:59:59-05:00">1968-12-30T12:00:00-05:00/1968-12-30T23:59:59-05:00</date>
             </correspAction>

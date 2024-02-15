@@ -81,7 +81,7 @@ for any purpose, even commercially.</p>
          </langUsage>
          <correspDesc>
             <correspAction type="sent">
-               <orgName ref="#amp_organization_70">Postamt Kirchstetten (post office Kirchstetten)</orgName>
+               <orgName><rs type="org" ref="#amp_organization_70">Postamt Kirchstetten (post office Kirchstetten)</rs></orgName>
                <placeName ref="#amp_place_id_5">Kirchstetten</placeName>
                <date notBefore-iso="1970-09-18T15:00:01+01:00" notAfter-iso="1970-09-18T16:00:00+01:00">1970-09-18T15:00:01+01:00/1970-09-18T16:00:00+01:00</date>
             </correspAction>

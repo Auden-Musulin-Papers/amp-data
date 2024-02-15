@@ -139,12 +139,12 @@ for any purpose, even commercially.</p>
          </langUsage>
          <correspDesc>
             <correspAction type="sent">
-               <orgName ref="#amp_organization_78">Postamt Berlin 33 (post office Berlin 33)</orgName>
+               <orgName><rs type="org" ref="#amp_organization_78">Postamt Berlin 33 (post office Berlin 33)</rs></orgName>
                <placeName ref="#amp_place_id_17">Berlin</placeName>
                <date notBefore-iso="1964-12-23T14:00:01+01:00" notAfter-iso="1964-12-23T15:00:00+01:00">1964-12-23T14:00:01+01:00/1964-12-23T15:00:00+01:00</date>
             </correspAction>
             <correspAction type="transmitted">
-               <orgName ref="#amp_organization_71">Postamt Ober-Grafendorf (post office Ober-Grafendorf)</orgName><!-- info from backstamp -->
+               <orgName><rs type="org" ref="#amp_organization_71">Postamt Ober-Grafendorf (post office Ober-Grafendorf)</rs></orgName><!-- info from backstamp -->
                <placeName ref="#amp_place_id_8">Ober-Grafendorf</placeName>
                <date notBefore-iso="1964-12-28T17:00:01+01:00" notAfter-iso="1964-12-28T18:00:00+01:00">1964-12-28T17:00:01+01:00/1964-12-28T18:00:00+01:00</date>
             </correspAction>

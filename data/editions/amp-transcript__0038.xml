@@ -103,12 +103,12 @@ for any purpose, even commercially.</p>
          </langUsage>
          <correspDesc>
             <correspAction type="sent">
-               <orgName ref="#amp_organization_79">Postamt Berlin 11 (post office Berlin 11)</orgName>
+               <orgName><rs type="org" ref="#amp_organization_79">Postamt Berlin 11 (post office Berlin 11)</rs></orgName>
                <placeName ref="#amp_place_id_17">Berlin</placeName>
                <date notBefore-iso="1965-03-15T13:00:01+01:00" notAfter-iso="1965-03-15T14:00:00+01:00">1965-03-15T13:00:01+01:00/1965-03-15T14:00:00+01:00</date>
             </correspAction>
             <correspAction type="transmitted">
-               <orgName ref="#amp_organization_71">Postamt Ober-Grafendorf (post office Ober-Grafendorf))</orgName>
+               <orgName><rs type="org" ref="#amp_organization_70">Postamt Ober-Grafendorf (post office Ober-Grafendorf)</rs></orgName>
                <placeName ref="#amp_place_id_8">Ober-Grafendorf</placeName>
                <date notBefore-iso="1965-03-20T09:00:01+01:00" notAfter-iso="1965-03-20T19:00:00+01:00">1965-03-20T09:00:01+01:00/1965-03-20T19:00:00+01:00</date><!-- uncertain time in postmark -->
             </correspAction>

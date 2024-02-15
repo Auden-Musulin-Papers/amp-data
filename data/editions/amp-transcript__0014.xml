@@ -89,12 +89,12 @@ for any purpose, even commercially.</p>
          </langUsage>
          <correspDesc>
             <correspAction type="sent">
-               <orgName ref="amp_organization_76">Hauptpostamt 1150 (main post office 1150)</orgName>
+               <orgName><rs type="org" ref="#amp_organization_76">Hauptpostamt 1150 (main post office 1150)</rs></orgName>
                <placeName ref="#amp_place_id_1">Vienna</placeName>
                <date notBefore-iso="1969-05-22T00:00:00+01:00" notAfter-iso="1969-05-22T15:00:00+01:00">1969-05-22T00:00:00+01:00/1969-05-22T15:00:00+01:00</date>
             </correspAction>
             <correspAction type="transmitted">
-               <orgName ref="amp_organization_73">Hauptpostamt 1030 (main post office 1030)</orgName>
+               <orgName><rs type="org" ref="#amp_organization_73">Hauptpostamt 1030 (main post office 1030)</rs></orgName>
                <placeName ref="#amp_place_id_1">Vienna</placeName>
                <date notBefore-iso="1969-05-22T14:00:01+01:00" notAfter-iso="1969-05-22T15:00:00+01:00">1969-05-22T14:00:01+01:00/1969-05-22T15:00:00+01:00</date>
             </correspAction>

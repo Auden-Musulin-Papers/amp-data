@@ -81,12 +81,12 @@ for any purpose, even commercially.</p>
          </langUsage>
          <correspDesc>
             <correspAction type="sent">
-               <orgName ref="#amp_organization_70">Postamt Kirchstetten (post office Kirchstetten)</orgName>
+               <orgName><rs type="org" ref="#amp_organization_70">Postamt Kirchstetten (post office Kirchstetten)</rs></orgName>
                <placeName ref="#amp_place_id_5">Kirchstetten</placeName>
                <date notBefore-iso="1971-05-13T15:30:01+01:00" notAfter-iso="1971-05-13T15:45:00+01:00">1971-05-13T15:30:01+01:00/1971-05-13T15:45:00+01:00</date>
             </correspAction>
             <correspAction type="transmitted">
-               <orgName ref="#amp_organization_73">Hauptpostamt 1030 (main post office 1030)</orgName>
+               <orgName><rs type="org" ref="#amp_organization_73">Hauptpostamt 1030 (main post office 1030)</rs></orgName>
                <placeName ref="#amp_place_id_1">Vienna</placeName>
                <date notBefore-iso="1971-05-13T16:20:00+01:00" notAfter-iso="1971-05-13T16:20:59+01:00">1971-05-13T16:20:00+01:00/1971-05-13T16:20:59+01:00</date>
             </correspAction> 

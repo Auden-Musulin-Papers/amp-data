@@ -89,21 +89,21 @@ for any purpose, even commercially.</p>
          </langUsage>
          <correspDesc>
             <correspAction type="sent">
-               <orgName ref="#amp_organization_70">Postamt Kirchstetten (post office Kirchstetten)</orgName>
+               <orgName><rs type="org" ref="#amp_organization_70">Postamt Kirchstetten (post office Kirchstetten)</rs></orgName>
                <placeName ref="#amp_place_id_5">Kirchstetten</placeName>
                <date notBefore-iso="1968-10-07T16:00:01+01:00" notAfter-iso="1968-10-07T17:00:00+01:00">1968-10-07T16:00:01+01:00/1968-10-07T17:00:00+01:00</date>
             </correspAction>
             <correspAction type="transmitted">
-               <orgName ref="#amp_organization_74">Hauptpostamt 1040 (main post office 1040)</orgName>
+               <orgName><rs type="org" ref="#amp_organization_74">Hauptpostamt 1040 (main post office 1040)</rs></orgName>
                <placeName ref="#amp_place_id_1">Vienna</placeName>
                <date notBefore-iso="1968-10-08T06:00:01+01:00" notAfter-iso="1968-10-08T07:00:00+01:00">1968-10-08T06:00:01+01:00/1968-10-08T07:00:00+01:00</date>
             </correspAction>            
             <correspAction type="redirected">
-               <orgName ref="#amp_organization_74">Hauptpostamt 1040 (main post office 1040)</orgName>
+               <orgName><rs type="org" ref="#amp_organization_74">Hauptpostamt 1040 (main post office 1040)</rs></orgName>
                <placeName ref="#amp_place_id_1">Vienna</placeName>
             </correspAction>
             <correspAction type="transmitted">
-               <orgName ref="#amp_organization_73">Hauptpostamt 1030 (main post office 1030)</orgName>
+               <orgName><rs type="org" ref="#amp_organization_73">Hauptpostamt 1030 (main post office 1030)</rs></orgName>
                <placeName ref="#amp_place_id_1">Vienna</placeName>
                <date notBefore-iso="1968-10-08T10:00:01+01:00" notAfter-iso="1968-10-08T11:00:00+01:00">1968-10-08T10:00:01+01:00/1968-10-08T11:00:00+01:00</date>
             </correspAction>            

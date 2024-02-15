@@ -122,7 +122,7 @@ for any purpose, even commercially.</p>
          </langUsage>
          <correspDesc>
             <correspAction type="sent">
-               <orgName ref="#amp_organization_82">London Western District Office</orgName>
+               <orgName><rs type="org" ref="#amp_organization_82">London Western District Office</rs></orgName>
                <placeName ref="#amp_place_id_56">London</placeName>
                <date notBefore-iso="1968-10-15T13:15:01+01:00" notAfter-iso="1968-10-15T13:44:59+01:00">1968-10-15T13:15:01+01:00/1968-10-15T13:44:59+01:00</date>
             </correspAction>
