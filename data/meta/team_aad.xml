@@ -10,8 +10,6 @@
                   Sandra</name>
                <name xml:id="tfruehwirth" ref="https://orcid.org/0000-0002-3997-5193">Frühwirth,
                   Timo</name>
-               <name xml:id="dgrigoriou" ref="https://orcid.org/0000-0002-0914-9245">Grigoriou,
-                  Dimitra</name>
                <name xml:id="ahechtl" ref="https://orcid.org/0000-0001-6104-7484">Hechtl,
                   Angelika</name>
                <name ref="https://orcid.org/0000-0002-9575-9372" xml:id="pandorfer">Andorfer, Peter</name>
@@ -109,20 +107,7 @@
             </list>
          </div>
          <div>
-            <head facs="csm_team_grigoriou_neu_ba5b4c2e2e.png">Dimitra Grigoriou - project scientist, co-editor</head>
-            <list>
-               <item>
-                  <ref target="https://orcid.org/0000-0002-0914-9245">ORCID:
-                     0000-0002-0914-9245</ref>
-               </item>
-               <item>
-                  <ref target="https://www.oeaw.ac.at/acdh/team/current-team/dimitra-grigoriou"
-                     >Departmental Profile</ref>
-               </item>
-            </list>
-         </div>
-         <div>
-            <head facs="csm_team_grigoriou_neu_ba5b4c2e2e.png">Angelika Hechtl - research software engineer</head>
+            <head facs="html/images/team/csm_Hechtl_Angelika-318A2992_161010_3f48b777cf.jpg">Angelika Hechtl - research software engineer</head>
             <list>
                <item>
                   <ref target="https://orcid.org/0000-0001-6104-7484">ORCID:
